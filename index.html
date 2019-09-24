@@ -6,6 +6,8 @@
     <meta name="viewport" content="width=device-width, height=device-height, initial-scale=1, maximum-scale=1, user-scalable=no" />
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500">
     <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+    <link rel="icon" href="/assets/icon-32.png" sizes="32x32" />
+    <link rel="manifest" href="/assets/manifest.json">
     <style>
       *, *::before, *::after {
         box-sizing: border-box;
@@ -84,6 +86,16 @@
     </div>
 
     <script>
+      // Install service worker
+      if ('serviceWorker' in window.navigator) {
+        window.addEventListener('load', () => {
+          window.navigator.serviceWorker.register('/serviceWorker.js').then(
+            (reg) => console.log('SW registered: ', reg),
+            (err) => console.log('SW registration failed: ', err)
+          );
+        });
+      }
+
       const rssServerUrl = 'https://podcastify.hiogawa.now.sh';
       const original = document.getElementById('original');
       const podcastified = document.getElementById('podcastified');
@@ -135,6 +147,15 @@
       const copy = () => {
         navigator.clipboard.writeText(podcastified.value);
       }
+
+      // Web Share Target handler (cf. https://wicg.github.io/web-share-target/level-2/)
+      window.addEventListener('load', () => {
+        const url = new URL(window.location);
+        if (url.searchParams.get('text')) {
+          original.value = url.searchParams.get('text');
+          podcastify();
+        }
+      });
     </script>
   </body>
 </html>

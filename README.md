@@ -15,7 +15,7 @@ TODO
 - Support channel url as `youtube.com/user/<name>`
 - On Antennapod, streaming play doesn't work.
   - probably, "audio/mpeg" trick isn't working
-- Implement web share target
+- Use first item's thumbnail as a top image
 
 
 Tested podcast clients
@@ -23,6 +23,19 @@ Tested podcast clients
 - https://nodetics.com/feedbro/
 - https://github.com/CDrummond/cantata
 - https://antennapod.org
+
+
+```
+# Development
+$ npm run dev      # rss endpoint
+$ npm run frontend # frontend html page
+
+# Testing
+$ npm test
+
+# Deployment (hosted on Zeit Now)
+$ npm run deploy
+```
 
 
 Example

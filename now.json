@@ -3,10 +3,14 @@
   "version": 2,
   "builds": [
     { "src": "index.html", "use": "@now/static" },
+    { "src": "serviceWorker.js", "use": "@now/static" },
+    { "src": "assets/*", "use": "@now/static" },
     { "src": "app.js", "use": "@now/node", "config": { "helpers": "false" } }
   ],
   "routes": [
     { "src": "/", "dest": "index.html" },
-    { "src": "/(.*)", "dest": "app.js" }
+    { "src": "/serviceWorker.js", "dest": "serviceWorker.js" },
+    { "src": "/assets/(.*)", "dest": "/assets/$1" },
+    { "src": "/(rss|enclosure)", "dest": "app.js" }
   ]
 }
