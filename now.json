@@ -1,0 +1,12 @@
+{
+  "name": "podcastify",
+  "version": 2,
+  "builds": [
+    { "src": "index.html", "use": "@now/static" },
+    { "src": "app.js", "use": "@now/node", "config": { "helpers": "false" } }
+  ],
+  "routes": [
+    { "src": "/", "dest": "index.html" },
+    { "src": "/(.*)", "dest": "app.js" }
+  ]
+}

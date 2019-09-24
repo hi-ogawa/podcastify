@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <title>Podcastify</title>
+    <meta name="viewport" content="width=device-width, height=device-height, initial-scale=1, maximum-scale=1, user-scalable=no" />
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+    <style>
+      *, *::before, *::after {
+        box-sizing: border-box;
+        margin: 0; padding: 0; border: 0;
+      	font: inherit;
+      }
+      html {
+        height: 100%;
+      }
+      body {
+        height: 100%; margin: 0;
+        background: #eee;
+        font-family: "Roboto";
+        display: flex;
+        justify-content: center;
+        align-items: center;
+      }
+      #root {
+        width: 80%;
+        max-width: 500px;
+        height: 80%;
+        background: white;
+        padding: 25px;
+        box-shadow: 0 1px 20px #ccc;
+      }
+      @media (max-width: 500px) {
+        #root {
+          width: 100%;
+          height: 100%;
+          padding: 50px 25px;
+        }
+      }
+      h1 {
+        margin-bottom: 20px;
+        font-weight: 300;
+        font-size: 22px;
+        padding-left: 5px;
+      }
+      .control:not(:last-child) {
+        margin-bottom: 20px;
+      }
+      .control {
+        display: flex;
+      }
+      .control > input {
+        flex: 1 1 auto;
+        min-width: 0px;
+        padding: 8px;
+        border: 1px solid #aaa;
+        font-weight: 300;
+      }
+      .control > input[disabled] {
+        background: #f9f9f9;
+      }
+      .control > button {
+        flex: 0 1 120px;
+        padding: 8px;
+        background: #777;
+        color: #fff;
+      }
+    </style>
+  </head>
+  <body>
+    <div id='root'>
+      <h1>Podcastify</h1>
+
+      <div class='control'>
+        <input id="original" type="url" placeholder="Youtube URL (channel or playlist)"/>
+        <button onclick="podcastify();">Podcastify</button>
+      </div>
+
+      <div class='control'>
+        <input id="podcastified" type="url" disabled placeholder="Podcastified URL"/>
+        <button onclick="copy()">Copy</button>
+      </div>
+    </div>
+
+    <script>
+      const rssServerUrl = 'https://podcastify.hiogawa.now.sh';
+      const original = document.getElementById('original');
+      const podcastified = document.getElementById('podcastified');
+
+      const parseYoutubeUrl = (url) => {
+        let obj;
+        try {
+          obj = new URL(url);
+        } catch (e) {
+          console.error(e);
+          return {};
+        }
+
+        // e.g. https://www.youtube.com/playlist?list=PLFPXn0FXBEuEiDDbjTh819LThGqUEWaYM
+        const playlistId = obj.searchParams.get('list');
+        if (playlistId) {
+          return { type: 'playlist', id: playlistId };
+        }
+
+        // e.g. https://www.youtube.com/channel/UCklUqFEcJqFnWKEBozw5p4g
+        const m = obj.pathname.match(/\/channel\/(.*)/);
+        if (m && m[1]) {
+          return { type: 'channel', id: m[1] };
+        }
+
+        return {};
+      };
+
+      const shareIfAvailable = (url) => {
+        if (!navigator.share) { return; }
+        navigator.share({
+          title: 'Podcastify',
+          url,
+        })
+        .then(() => console.log('Share succeed'))
+        .catch((err) => console.log('Share failed', err));
+      }
+
+      const podcastify = () => {
+        const { type, id } = parseYoutubeUrl(original.value);
+        if (!(type && id)) {
+          return alert('Unsupported  Youtube URL.');
+        }
+        const url = `${rssServerUrl}/rss?type=${type}&id=${id}`;
+        podcastified.value = url;
+        shareIfAvailable(url);
+      };
+
+      const copy = () => {
+        navigator.clipboard.writeText(podcastified.value);
+      }
+    </script>
+  </body>
+</html>

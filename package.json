@@ -1,0 +1,27 @@
+{
+  "engines": {
+    "node": ">=10"
+  },
+  "scripts": {
+    "frontend": "http-server . -p 9090",
+    "dev": "nodemon ./app.js",
+    "dev:debug": "nodemon --inspect ./app.js",
+    "test": "APP_ENV=test mocha ./app.test.js --timeout=10000 --exit",
+    "test:debug": "APP_ENV=test mocha --inspect ./app.test.js --timeout=10000 --exit",
+    "deploy": "now . -A now.json --debug"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "jsdom": "^15.1.1",
+    "lodash": "^4.17.15",
+    "morgan": "^1.9.1",
+    "node-fetch": "^2.6.0"
+  },
+  "devDependencies": {
+    "http-server": "^0.11.1",
+    "mocha": "^6.2.0",
+    "nodemon": "^1.19.2",
+    "sinon": "^7.5.0",
+    "supertest": "^4.0.2"
+  }
+}
