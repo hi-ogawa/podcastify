@@ -3,11 +3,11 @@
     "node": ">=10"
   },
   "scripts": {
-    "frontend": "http-server . -p 9090",
-    "dev": "nodemon ./app.js",
-    "dev:debug": "nodemon --inspect ./app.js",
-    "test": "APP_ENV=test mocha ./app.test.js --timeout=10000 --exit",
-    "test:debug": "APP_ENV=test mocha --inspect ./app.test.js --timeout=10000 --exit",
+    "frontend": "http-server ./frontend -p 9090",
+    "dev": "nodemon ./backend/app.js",
+    "dev:debug": "nodemon --inspect ./backend/app.js",
+    "test": "APP_ENV=test mocha ./backend/app.test.js --timeout=10000 --exit",
+    "test:debug": "APP_ENV=test mocha --inspect ./backend/app.test.js --timeout=10000 --exit",
     "deploy": "now . -A now.json --debug"
   },
   "dependencies": {

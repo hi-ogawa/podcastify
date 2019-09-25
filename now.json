@@ -2,15 +2,11 @@
   "name": "podcastify",
   "version": 2,
   "builds": [
-    { "src": "index.html", "use": "@now/static" },
-    { "src": "serviceWorker.js", "use": "@now/static" },
-    { "src": "assets/*", "use": "@now/static" },
-    { "src": "app.js", "use": "@now/node", "config": { "helpers": "false" } }
+    { "src": "backend/app.js", "use": "@now/node", "config": { "helpers": "false" } },
+    { "src": "frontend/**/*", "use": "@now/static" }
   ],
   "routes": [
-    { "src": "/", "dest": "index.html" },
-    { "src": "/serviceWorker.js", "dest": "serviceWorker.js" },
-    { "src": "/assets/(.*)", "dest": "/assets/$1" },
-    { "src": "/(rss|enclosure)", "dest": "app.js" }
+    { "src": "/(rss|enclosure)", "dest": "backend/app.js" },
+    { "src": "/(.*)", "dest": "frontend/$1" }
   ]
 }
