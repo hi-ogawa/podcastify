@@ -13,8 +13,16 @@ Motivation
 TODO
 
 - Overall, download is quite slow.
-  - probably google's endpoint isn't optimized for bulk download.
+  - probably google's frontend isn't optimized for bulk download for certain size (cf. below).
   - probably client doesn't use "manually chunked range" requests as used in youtube-dl
+
+```
+# This is fast (payload < 12MiB)
+$ curl -L -r 0-$(( (2 ** 20) * 11 )) http://podcastify.hiogawa.now.sh/enclosure?videoUrl=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DIPS8jTWya8Y > google.mp3
+
+# This is slow (payload >= 12MiB)
+$ curl -L -r 0-$(( (2 ** 20) * 12 )) http://podcastify.hiogawa.now.sh/enclosure?videoUrl=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DIPS8jTWya8Y > google.mp3
+```
 
 
 Tested podcast clients
