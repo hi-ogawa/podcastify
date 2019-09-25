@@ -47,7 +47,7 @@ const getChannelId = async (user) => {
 // It seems the feed consists of the latest 15 videos under the channel.
 // Actually we don't have to use original feeds to obtain the list of videos, but
 // it is for starter because it's easy to use it.
-const getRss = async (type, id, enclosurePath) => {
+const getRss = async (type, id, mkEnclosureUrl) => {
   if (type === 'user') {
     type = 'channel';
     id = await getChannelId(id);
@@ -61,10 +61,10 @@ const getRss = async (type, id, enclosurePath) => {
     feed = await resp.text();
   } catch (e) { return; }
 
-  return feed2rss(feed, type, id, enclosurePath);
+  return feed2rss(feed, type, id, mkEnclosureUrl);
 }
 
-const feed2rss = (feed, type, id, enclosurePath) => {
+const feed2rss = (feed, type, id, mkEnclosureUrl) => {
   const dom = new JSDOM(feed, { contentType: 'text/xml' });
   const doc = dom.window.document;
 
@@ -78,7 +78,7 @@ const feed2rss = (feed, type, id, enclosurePath) => {
     const published = e.querySelector('published').textContent;
     const author = e.querySelector('author > name').textContent;
 
-    const enclosureUrl = `${enclosurePath}?videoUrl=${encodeURIComponent(videoUrl)}`;
+    const enclosureUrl = mkEnclosureUrl(videoUrl);
 
     // Don't know what guid has to be. Just make it unique-ish within podcastify.
     const hash = crypto.createHash('md5');

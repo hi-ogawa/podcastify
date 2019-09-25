@@ -15,6 +15,8 @@ TODO
 - Overall, download is quite slow.
   - probably google's frontend isn't optimized for bulk download for certain size (cf. below).
   - probably client doesn't use "manually chunked range" requests as used in youtube-dl
+- After optimization (cf. https://github.com/hi-ogawa/range-split-proxy),
+  it's much better, but it seems it's breaking streaming playback.
 
 ```
 # This is fast (payload < 12MiB)
