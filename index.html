@@ -148,6 +148,7 @@
         const url = `${rssServerUrl}/rss?type=${type}&id=${id}`;
         podcastified.value = url;
         shareIfAvailable(url);
+        copy();
       };
 
       const copy = () => {
