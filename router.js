@@ -2,7 +2,7 @@ const express = require('express');
 const lib = require('./lib.js');
 const router = express.Router();
 
-// type: enum 'playlist', 'channel'
+// type: enum 'playlist', 'channel', 'user'
 // id: string
 const rssHandler = async (req, res) => {
   let { type, id } = req.query

@@ -116,9 +116,15 @@
         }
 
         // e.g. https://www.youtube.com/channel/UCklUqFEcJqFnWKEBozw5p4g
-        const m = obj.pathname.match(/\/channel\/(.*)/);
-        if (m && m[1]) {
-          return { type: 'channel', id: m[1] };
+        const m1 = obj.pathname.match(/\/channel\/(.*)/);
+        if (m1 && m1[1]) {
+          return { type: 'channel', id: m1[1] };
+        }
+
+        // e.g. https://www.youtube.com/user/AnastasiSemina
+        const m2 = obj.pathname.match(/\/user\/(.*)/);
+        if (m2 && m2[1]) {
+          return { type: 'user', id: m2[1] };
         }
 
         return {};

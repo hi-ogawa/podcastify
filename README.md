@@ -12,17 +12,17 @@ Motivation
 
 TODO
 
-- Support channel url as `youtube.com/user/<name>`
-- On Antennapod, streaming play doesn't work.
-  - probably, "audio/mpeg" trick isn't working
-- Use first item's thumbnail as a top image
+- Overall, download is quite slow.
+  - probably google's endpoint isn't optimized for bulk download.
+  - probably client doesn't use "manually chunked range" requests as used in youtube-dl
 
 
 Tested podcast clients
 
 - https://nodetics.com/feedbro/
 - https://github.com/CDrummond/cantata
-- https://antennapod.org
+- https://castbox.fm
+- https://antennapod.org (streaming doesn't work)
 
 
 ```
