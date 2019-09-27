@@ -40,7 +40,7 @@ const enclosureHandler = async (req, res) => {
 
   const audioUrl = await lib.getAudioUrl(videoUrl);
   if (!audioUrl) {
-    return res.status(400).send('Invalid parameter: original');
+    return res.status(400).send('Invalid parameter: videoUrl');
   }
 
   res.redirect(audioUrl);

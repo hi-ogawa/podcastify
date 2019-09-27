@@ -7,7 +7,8 @@ const { encodeURIComponent } = global;
 
 // NOTE:
 // For now, go exclusively with webm, just hoping this format is always available.
-// If it's not, then client gets error when accessing enclosure url.
+// If it's not, then client will get m4a or something, contracting with enclosure type.
+// It seems most clients can robustly handle those cases.
 const MIME_TYPE = 'audio/webm';
 
 const cdata = (text) => `<![CDATA[${text}]]>`;
@@ -130,7 +131,8 @@ const extractFormats = (content) => {
 
 const chooseFormat = (formats) =>
   formats.find(f => f.mimeType.match(MIME_TYPE) && f.audioQuality !== 'AUDIO_QUALITY_LOW') ||
-  formats.find(f => f.mimeType.match(MIME_TYPE))
+  formats.find(f => f.mimeType.match(MIME_TYPE)) ||
+  formats.find(f => f.mimeType.match('audio'))
 
 const getAudioUrl = async (videoUrl) => {
   const resp = await fetch.fetch(videoUrl);
