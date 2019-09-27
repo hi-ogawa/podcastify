@@ -7,7 +7,8 @@ const { encodeURIComponent } = global;
 
 // NOTE:
 // For now, go exclusively with webm, just hoping this format is always available.
-// If it's not, then client gets error when accessing enclosure url.
+// If it's not, then client will get m4a or something, contracting with enclosure type.
+// It seems most clients can robustly handle those cases.
 const MIME_TYPE = 'audio/webm';
 
 const cdata = (text) => `<![CDATA[${text}]]>`;
@@ -47,7 +48,7 @@ const getChannelId = async (user) => {
 // It seems the feed consists of the latest 15 videos under the channel.
 // Actually we don't have to use original feeds to obtain the list of videos, but
 // it is for starter because it's easy to use it.
-const getRss = async (type, id, enclosurePath) => {
+const getRss = async (type, id, mkEnclosureUrl) => {
   if (type === 'user') {
     type = 'channel';
     id = await getChannelId(id);
@@ -61,10 +62,10 @@ const getRss = async (type, id, enclosurePath) => {
     feed = await resp.text();
   } catch (e) { return; }
 
-  return feed2rss(feed, type, id, enclosurePath);
+  return feed2rss(feed, type, id, mkEnclosureUrl);
 }
 
-const feed2rss = (feed, type, id, enclosurePath) => {
+const feed2rss = (feed, type, id, mkEnclosureUrl) => {
   const dom = new JSDOM(feed, { contentType: 'text/xml' });
   const doc = dom.window.document;
 
@@ -78,7 +79,7 @@ const feed2rss = (feed, type, id, enclosurePath) => {
     const published = e.querySelector('published').textContent;
     const author = e.querySelector('author > name').textContent;
 
-    const enclosureUrl = `${enclosurePath}?videoUrl=${encodeURIComponent(videoUrl)}`;
+    const enclosureUrl = mkEnclosureUrl(videoUrl);
 
     // Don't know what guid has to be. Just make it unique-ish within podcastify.
     const hash = crypto.createHash('md5');
@@ -130,7 +131,8 @@ const extractFormats = (content) => {
 
 const chooseFormat = (formats) =>
   formats.find(f => f.mimeType.match(MIME_TYPE) && f.audioQuality !== 'AUDIO_QUALITY_LOW') ||
-  formats.find(f => f.mimeType.match(MIME_TYPE))
+  formats.find(f => f.mimeType.match(MIME_TYPE)) ||
+  formats.find(f => f.mimeType.match('audio'))
 
 const getAudioUrl = async (videoUrl) => {
   const resp = await fetch.fetch(videoUrl);
