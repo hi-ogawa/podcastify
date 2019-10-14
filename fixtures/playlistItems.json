@@ -1,0 +1,2144 @@
+{
+ "kind": "youtube#playlistItemListResponse",
+ "etag": "\"p4VTdlkQv3HQeTEaXgvLePAydmU/toOdlDg-rqUF6lYeXHoyHQQPSEs\"",
+ "pageInfo": {
+  "totalResults": 42,
+  "resultsPerPage": 50
+ },
+ "items": [
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"p4VTdlkQv3HQeTEaXgvLePAydmU/rR-VJXqDwGCWWFBkoKaFQyeiuGA\"",
+   "id": "UEw3c0FfU2tIWDV5ZThzWUc1dE9kdkdmTlplZjViN2h4Ny43NERCMDIzQzFBMERCMEE3",
+   "snippet": {
+    "publishedAt": "2019-10-11T17:18:13.000Z",
+    "channelId": "UCRqqejOQm2ZQLHZ62CxXLIA",
+    "title": "Владеешь ли ты иностранным языком свободно?",
+    "description": "http://go.italki.com/vikuhasky - При регистрации по ссылке, Вы получите 10$ в кредитах italki после первой покупки.\nhttps://www.italki.com/home - Обучение языку онлайн.\n\n___\n\nhttps://www.youtube.com/watch?v=P-GTRwdrxXY -- Как выучить английский язык: моя история успеха\nhttps://www.youtube.com/watch?reload=9&v=lnccxB-tB0Q --VLOG РИГА × говорю по-латышски 🇱🇻\nhttps://www.youtube.com/watch?v=MIoqHw6vFxY&t=525s -- Учи язык и не стесняйся! #мотивика\nhttps://www.youtube.com/watch?v=3ck4ai0O4dE&t=1s -- ЗАЧЕМ НУЖНО УЧИТЬ ЯЗЫКИ? #мотивика\nhttps://www.youtube.com/watch?v=tYNRKZ7VXGU&t=30s -- Как НАДО и НЕ НАДО учить (латышский/любой другой) язык\nhttps://www.youtube.com/watch?v=OiD74C0GD4g -- ЛАТЫШСКИЙ ЯЗЫК: рандомная проверка знаний Вики Викой\nhttps://www.youtube.com/watch?v=YUIZDd3b3no -- СТРАННЫЕ ФРАНЦУЗСКИЕ ФРАЗЫ\nhttps://www.youtube.com/watch?v=fK33KMmgXjw&t=822s -- Как выучить французский язык: моя история успеха\n\n____\n\nИНСТАГРАМ: http://instagram.com/vikuhasky/\nSOUNDCLOUD: https://soundcloud.com/viku-hasky\nPINTEREST: https://www.pinterest.com/vikuhasky/\n\nCanon 700D\niPhone 8\nFinal Cut X\n\n\nпо вопросам сотрудничества: vgubarevica@gmail.com",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/Q_v2Pc-ew28/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/Q_v2Pc-ew28/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/Q_v2Pc-ew28/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/Q_v2Pc-ew28/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/Q_v2Pc-ew28/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Hiroshi Ogawa",
+    "playlistId": "PL7sA_SkHX5ye8sYG5tOdvGfNZef5b7hx7",
+    "position": 0,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "Q_v2Pc-ew28"
+    }
+   },
+   "contentDetails": {
+    "videoId": "Q_v2Pc-ew28",
+    "videoPublishedAt": "2019-08-03T05:54:52.000Z"
+   },
+   "status": {
+    "privacyStatus": "public"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"p4VTdlkQv3HQeTEaXgvLePAydmU/ZEitDzGhuhJjOT-eTeKsmME1AeE\"",
+   "id": "UEw3c0FfU2tIWDV5ZThzWUc1dE9kdkdmTlplZjViN2h4Ny41NTZEOThBNThFOUVGQkVB",
+   "snippet": {
+    "publishedAt": "2019-10-07T05:25:31.000Z",
+    "channelId": "UCRqqejOQm2ZQLHZ62CxXLIA",
+    "title": "Скалолазание 🧗\u200d♀️",
+    "description": "Мой Клуб для позитивных и мотивированных людей: https://russianpodcast.eu/about-russian-podcast-club\n\nСегодня в видео \"Завораживающий русский\" у нас слово \"Скалолазание\". Это длинное слово обозначает вид спорта, когда мы поднимаемся вверх по стене или скале. Хорошая возможность попрактиковать произношение русского твёрдого \"л\". А вы занимаетесь или занимались СКАЛОЛАЗАНИЕМ? \n\nСотни бесплатных подкастов: https://russianpodcast.eu/\n\nМой Фейсбук: https://www.facebook.com/russianpodcast/\n\nМой Инстаграм: https://www.instagram.com/russianpodcast/",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/I-Kb_RbdntM/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/I-Kb_RbdntM/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/I-Kb_RbdntM/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/I-Kb_RbdntM/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "Hiroshi Ogawa",
+    "playlistId": "PL7sA_SkHX5ye8sYG5tOdvGfNZef5b7hx7",
+    "position": 1,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "I-Kb_RbdntM"
+    }
+   },
+   "contentDetails": {
+    "videoId": "I-Kb_RbdntM",
+    "videoPublishedAt": "2019-10-06T09:28:36.000Z"
+   },
+   "status": {
+    "privacyStatus": "public"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"p4VTdlkQv3HQeTEaXgvLePAydmU/XaFpVVbe25-jQRocKkYqWIwV9Gw\"",
+   "id": "UEw3c0FfU2tIWDV5ZThzWUc1dE9kdkdmTlplZjViN2h4Ny42Qzk5MkEzQjVFQjYwRDA4",
+   "snippet": {
+    "publishedAt": "2019-10-04T10:41:37.000Z",
+    "channelId": "UCRqqejOQm2ZQLHZ62CxXLIA",
+    "title": "Car Parts - Russian Vocabulary (common words and phrases)",
+    "description": "Today we talk about car parts and car vocabulary in Russian.\nI am going to tell you why I bought an old Russian (soviet) car VAZ 2107 (ВАЗ 2107). \n\n\n►Spoken audio lessons for intermediate\nhttps://www.russianwithmax.com/product/russian-through-stories-lesson-pack/\n\n►Join the membership program!:\nhttps://www.russianwithmax.com/russian-audio-lessons/\n\n►Comprehensible Russian Podcast:\nhttps://www.russianwithmax.com/category/russian-podcast/\n\n►This channel is 100% supported by learners and I very much appreciate that!\nPatreon:\nhttps://www.patreon.com/russianwithmax\nPayPal:\nhttps://www.paypal.me/MaxPimenov",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/kLUawSwYgrU/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/kLUawSwYgrU/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/kLUawSwYgrU/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/kLUawSwYgrU/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/kLUawSwYgrU/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Hiroshi Ogawa",
+    "playlistId": "PL7sA_SkHX5ye8sYG5tOdvGfNZef5b7hx7",
+    "position": 2,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "kLUawSwYgrU"
+    }
+   },
+   "contentDetails": {
+    "videoId": "kLUawSwYgrU",
+    "videoPublishedAt": "2019-10-03T17:40:38.000Z"
+   },
+   "status": {
+    "privacyStatus": "public"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"p4VTdlkQv3HQeTEaXgvLePAydmU/crvsIDUet-BtQ7d5PEUi69iF9Y4\"",
+   "id": "UEw3c0FfU2tIWDV5ZThzWUc1dE9kdkdmTlplZjViN2h4Ny4zMEQ1MEIyRTFGNzhDQzFB",
+   "snippet": {
+    "publishedAt": "2019-10-01T16:55:39.000Z",
+    "channelId": "UCRqqejOQm2ZQLHZ62CxXLIA",
+    "title": "БЫТЬ / ПОБЫТЬ / БЫВАТЬ / ПОБЫВАТЬ - видео с упражнением 🏔️",
+    "description": "Мой Клуб для позитивных и мотивированных людей: https://russianpodcast.eu/about-russian-podcast-club\n\nСегодня я отвечаю на вопрос Жака: \"Какая разница между глаголами БЫТЬ, ПОБЫТЬ, БЫВАТЬ и ПОБЫВАТЬ?\". Спасибо Жаку за хороший вопрос, а вам - за то, что активно смотрите и комментируете мои видео. В конце у меня для вас есть упражнение на эти четыре глагола. И всё только на медленном русском языке.\n\nСотни бесплатных подкастов: https://russianpodcast.eu/\n\nМой Фейсбук: https://www.facebook.com/russianpodcast/\n\nМой Инстаграм: https://www.instagram.com/russianpodcast/",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/gf0Wcx6ySMc/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/gf0Wcx6ySMc/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/gf0Wcx6ySMc/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/gf0Wcx6ySMc/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "Hiroshi Ogawa",
+    "playlistId": "PL7sA_SkHX5ye8sYG5tOdvGfNZef5b7hx7",
+    "position": 3,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "gf0Wcx6ySMc"
+    }
+   },
+   "contentDetails": {
+    "videoId": "gf0Wcx6ySMc",
+    "videoPublishedAt": "2019-10-01T09:39:41.000Z"
+   },
+   "status": {
+    "privacyStatus": "public"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"p4VTdlkQv3HQeTEaXgvLePAydmU/mqF2KxsiNWY7ggz3x8sKhw1qQXo\"",
+   "id": "UEw3c0FfU2tIWDV5ZThzWUc1dE9kdkdmTlplZjViN2h4Ny4xMzgwMzBERjQ4NjEzNUE5",
+   "snippet": {
+    "publishedAt": "2019-09-26T02:05:33.000Z",
+    "channelId": "UCRqqejOQm2ZQLHZ62CxXLIA",
+    "title": "Премьера! Завораживающий русский 🌟",
+    "description": "Мой Клуб для позитивных и мотивированных людей: https://russianpodcast.eu/about-russian-podcast-club\n\nВы любите длинные русские слова? Красивые, оригинальные, необычные. Слова, которые удивят ваших русскоязычных друзей. Слова, которые вы можете встретить в романе Толстого, во время душевного разговора за чаем, на экскурсии в Санкт-Петербурге. \n\nТеперь у вас есть уникальная возможность учить такие слова благодаря моему новому формату \"Завораживающий русский\".\n\nСотни бесплатных подкастов: https://russianpodcast.eu/\n\nМой Фейсбук: https://www.facebook.com/russianpodcast/\n\nМой Инстаграм: https://www.instagram.com/russianpodcast/",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/hD6KyzuHdG8/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/hD6KyzuHdG8/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/hD6KyzuHdG8/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/hD6KyzuHdG8/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "Hiroshi Ogawa",
+    "playlistId": "PL7sA_SkHX5ye8sYG5tOdvGfNZef5b7hx7",
+    "position": 4,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "hD6KyzuHdG8"
+    }
+   },
+   "contentDetails": {
+    "videoId": "hD6KyzuHdG8",
+    "videoPublishedAt": "2019-09-25T11:48:42.000Z"
+   },
+   "status": {
+    "privacyStatus": "public"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"p4VTdlkQv3HQeTEaXgvLePAydmU/fXuLF7bwF1MtJR7Zeg1LVBK_BY0\"",
+   "id": "UEw3c0FfU2tIWDV5ZThzWUc1dE9kdkdmTlplZjViN2h4Ny5ENjI1QUI0MDI5NEQzODFE",
+   "snippet": {
+    "publishedAt": "2019-09-24T00:50:52.000Z",
+    "channelId": "UCRqqejOQm2ZQLHZ62CxXLIA",
+    "title": "Russian Conversations 46. Meet Justin from Canada! Джастин Хаммонд",
+    "description": "⭐ Justin's channel: https://www.youtube.com/justinochek\n⭐ Justin's instagram: https://www.instagram.com/justinochek/\n🌷 My instagram: https://www.instagram.com/russian_language_secrets/\n🌷 My facebook: https://www.facebook.com/RussianFinnishEnglish/\n\nI hope you enjoyed the video. You can support my work here:\n💙 https://www.paypal.me/anastasiasemina\nOr you can join my Patreon and enjoy the extra materials I upload there:\n💙 https://www.patreon.com/anastasisemina",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/cnMDTTu5MZM/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/cnMDTTu5MZM/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/cnMDTTu5MZM/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/cnMDTTu5MZM/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/cnMDTTu5MZM/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Hiroshi Ogawa",
+    "playlistId": "PL7sA_SkHX5ye8sYG5tOdvGfNZef5b7hx7",
+    "position": 5,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "cnMDTTu5MZM"
+    }
+   },
+   "contentDetails": {
+    "videoId": "cnMDTTu5MZM",
+    "videoPublishedAt": "2019-09-23T16:09:25.000Z"
+   },
+   "status": {
+    "privacyStatus": "public"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"p4VTdlkQv3HQeTEaXgvLePAydmU/qGFY8IsLJlMKNb5WjP2EsfQFFRI\"",
+   "id": "UEw3c0FfU2tIWDV5ZThzWUc1dE9kdkdmTlplZjViN2h4Ny40QzRDOEU0QUYwNUIxN0M1",
+   "snippet": {
+    "publishedAt": "2019-09-06T16:15:48.000Z",
+    "channelId": "UCRqqejOQm2ZQLHZ62CxXLIA",
+    "title": "Going to Etnomir as my birthday celebration! Awesome! (Russian Vocabulary Words)",
+    "description": "Привет! Recently I had my birthday and as a gift I got tickets to Etnomir - a very large ethnic park outside of Moscow! You can see how we got Etnomir and learn some new Russian vocabulary words!\n\nThe Vlog has English and Russian Subtitles\n\nThe link to the Cartoon as I promised:\nhttps://www.youtube.com/watch?reload=9&v=qD93SofHU_I\n\n\nMore resources for you:\n\nOur Slow and Comprehensible Russian Podcast:\nhttps://www.russianwithmax.com/category/russian-podcast/\n\nFree stories with audio, text and vocabulary:\nhttps://www.russianwithmax.com/\n\nThis channel is 100% advertisement free and it's being sponsored by the learners:\n\nPatreon:\nhttps://www.patreon.com/russianwithmax\nPayPal:\nhttps://www.paypal.me/MaxPimenov\n\nYou can help others while practicing by making subtitles (or CC) on your own language:\nhttp://www.youtube.com/timedtext_cs_panel?tab=2&c=UCklUqFEcJqFnWKEBozw5p4g\n\n\n#VlogInRussian#RussianVocabularyWords#LearnRussianVocabularyAndBeTheMasterXD",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/MvRfYsxKdn4/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/MvRfYsxKdn4/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/MvRfYsxKdn4/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/MvRfYsxKdn4/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/MvRfYsxKdn4/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Hiroshi Ogawa",
+    "playlistId": "PL7sA_SkHX5ye8sYG5tOdvGfNZef5b7hx7",
+    "position": 6,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "MvRfYsxKdn4"
+    }
+   },
+   "contentDetails": {
+    "videoId": "MvRfYsxKdn4",
+    "videoPublishedAt": "2019-04-22T19:15:33.000Z"
+   },
+   "status": {
+    "privacyStatus": "public"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"p4VTdlkQv3HQeTEaXgvLePAydmU/9KbU2Cets1uNYvMnrLsNnPDmtUk\"",
+   "id": "UEw3c0FfU2tIWDV5ZThzWUc1dE9kdkdmTlplZjViN2h4Ny4yQUJFNUVCMzVDNjcxRTlF",
+   "snippet": {
+    "publishedAt": "2019-09-06T16:15:23.000Z",
+    "channelId": "UCRqqejOQm2ZQLHZ62CxXLIA",
+    "title": "Russian Conversation with Lida (subtitles) - Body Language",
+    "description": "From this Russian conversation with one Russian friend of mine named Lida you will learn some vocabulary words related to psychology. \nWhat do our gestures and pose mean? How do we behave? I hope you'll enjoy this conversation. Turn on Russian subtitles if needed.\n\nMore useful links to help you learn Russian:\n\nImprove your Russian Listening Skill with my free Podcast in Slow and Comprehensible Russian:\nListen directly:\nhttps://anchor.fm/comprehensible-russian\nRSS (for subscribing with podcast App):\nhttps://anchor.fm/s/6f65684/podcast/rss\n\n--------------------------\n\nGet more FREE stories in Russian with text and audio at my website:\nhttps://www.russianwithmax.com\n\nStudy my lessons on LingQ:\nhttps://www.lingq.com/ru/learn/ru/web/course/414521?referral=max.pimenov\n\n--------------------------\n\nEnjoy listening and repetitions?\nSupport this project on Patreon ($3-6) and get your own Audio RSS Feed (podcast) with audios of all my YouTube videos (+bonus episodes):\nhttps://www.patreon.com/russianwithmax\n\n--------------------------\nIf you like this project and want to see its grow you can support it by PayPal.\nI really appreciate it, it means a lot!\nhttps://www.paypal.me/MaxPimenov",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/RH5NbqSCM7w/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/RH5NbqSCM7w/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/RH5NbqSCM7w/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/RH5NbqSCM7w/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/RH5NbqSCM7w/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Hiroshi Ogawa",
+    "playlistId": "PL7sA_SkHX5ye8sYG5tOdvGfNZef5b7hx7",
+    "position": 7,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "RH5NbqSCM7w"
+    }
+   },
+   "contentDetails": {
+    "videoId": "RH5NbqSCM7w",
+    "videoPublishedAt": "2018-12-06T12:10:30.000Z"
+   },
+   "status": {
+    "privacyStatus": "public"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"p4VTdlkQv3HQeTEaXgvLePAydmU/cBV6UxyccFfY38cqODUqR91bSi8\"",
+   "id": "UEw3c0FfU2tIWDV5ZThzWUc1dE9kdkdmTlplZjViN2h4Ny4yQjZFRkExQjFGODk3RUFD",
+   "snippet": {
+    "publishedAt": "2019-09-05T14:41:26.000Z",
+    "channelId": "UCRqqejOQm2ZQLHZ62CxXLIA",
+    "title": "Passing driving exam in Russia - Vlog for learning Russian #33",
+    "description": "I vlogged my test for getting a driving license. Today you will look at my day in Vsevolozhsk - a small Russian city where the exam took place.\n\n►First Lesson Pack is available!\nhttps://www.russianwithmax.com/product/russian-through-stories-lesson-pack/\n\n►Membership program for intermediate learners:\nhttps://www.russianwithmax.com/russian-audio-lessons/\n\n►Comprehensible Russian Podcast:\nhttps://www.russianwithmax.com/category/russian-podcast/\n\n►This channel is 100% supported by learners and I very much appreciate that!\nPatreon:\nhttps://www.patreon.com/russianwithmax\nPayPal:\nhttps://www.paypal.me/MaxPimenov",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/qgI7u0uLGZA/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/qgI7u0uLGZA/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/qgI7u0uLGZA/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/qgI7u0uLGZA/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/qgI7u0uLGZA/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Hiroshi Ogawa",
+    "playlistId": "PL7sA_SkHX5ye8sYG5tOdvGfNZef5b7hx7",
+    "position": 8,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "qgI7u0uLGZA"
+    }
+   },
+   "contentDetails": {
+    "videoId": "qgI7u0uLGZA",
+    "videoPublishedAt": "2019-09-05T05:15:01.000Z"
+   },
+   "status": {
+    "privacyStatus": "public"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"p4VTdlkQv3HQeTEaXgvLePAydmU/5MQ7RPz3Uqz9CETX4axMQR6ArSM\"",
+   "id": "UEw3c0FfU2tIWDV5ZThzWUc1dE9kdkdmTlplZjViN2h4Ny41MzY4MzcwOUFFRUU3QzEx",
+   "snippet": {
+    "publishedAt": "2019-09-05T07:05:08.000Z",
+    "channelId": "UCRqqejOQm2ZQLHZ62CxXLIA",
+    "title": "Russian Conversations 32. I interview a Russian songwriter Katya Zhukova.",
+    "description": "Filming and editing - Jason Acuna ⭐️ In this video, I interview my friend Katya Zhukova. She is a singer and a songwriter. ❤️🎼 Find her here: https://www.youtube.com/user/Zhukova100\nhttps://www.youtube.com/springtimegroup\nhttps://www.instagram.com/katyazhukovamusic/\nhttps://www.instagram.com/Springtimegroup/\nhttps://vk.com/katyazhukovamusic\nhttps://vk.com/springtimegroup\nhttps://www.facebook.com/springtimegroup/\n\nIf you like my videos, please support my channel: https://www.paypal.me/anastasiasemina ⭐️  Get one italki lesson for free: http://goo.gl/N8g52P\n\nAll Russian Conversations: https://goo.gl/Xj3bWA\nAll Russian lessons for beginners: http://goo.gl/hgTIvs\nRussian listening tests: https://goo.gl/kvwsF9\nVlogs in Russian: https://goo.gl/6rJ3WF\nAll Finnish Lessons for Beginners: http://goo.gl/Ju1luE\nTravel videos: http://goo.gl/w0GF9t\n\nLet’s be friends!\nhttps://www.instagram.com/anastasia_semina/\nhttps://www.instagram.com/russian_language_secrets/\nhttps://www.facebook.com/RussianFinnishEnglish/\nhttp://vk.com/russianfinnishenglish\n\nSUBSCRIBE to this channel: \nhttp://www.youtube.com/AnastasiSemina",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/uPy85j_iIPw/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/uPy85j_iIPw/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/uPy85j_iIPw/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/uPy85j_iIPw/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/uPy85j_iIPw/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Hiroshi Ogawa",
+    "playlistId": "PL7sA_SkHX5ye8sYG5tOdvGfNZef5b7hx7",
+    "position": 9,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "uPy85j_iIPw"
+    }
+   },
+   "contentDetails": {
+    "videoId": "uPy85j_iIPw",
+    "videoPublishedAt": "2017-09-13T22:28:50.000Z"
+   },
+   "status": {
+    "privacyStatus": "public"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"p4VTdlkQv3HQeTEaXgvLePAydmU/Gkqv5hlTeaP6XA8lb-Nh-tG8u7Q\"",
+   "id": "UEw3c0FfU2tIWDV5ZThzWUc1dE9kdkdmTlplZjViN2h4Ny5DRUQwODMxQzUyRTlGRkY3",
+   "snippet": {
+    "publishedAt": "2019-09-05T07:05:01.000Z",
+    "channelId": "UCRqqejOQm2ZQLHZ62CxXLIA",
+    "title": "Vlog in Russian 8. Met Christina from 'Russian from Scratch' at YouTube Creator Day",
+    "description": "I was really happy to FINALLY meet Christina (https://www.youtube.com/christinakochneva) from the channel 'Russian from Scratch'! She also has an English language channel, check it out: https://www.youtube.com/c/englishspot ❤️ We discussed all the things related to YouTube and inspiration, language teaching and our role models! 🙂 If you like my videos, please support my channel: https://www.paypal.me/anastasiasemina ⭐️  Get one italki lesson for free: http://goo.gl/N8g52P\n\nAll Russian Conversations: https://goo.gl/Xj3bWA\nAll Russian lessons for beginners: http://goo.gl/hgTIvs\nRussian listening tests: https://goo.gl/kvwsF9\nVlogs in Russian: https://goo.gl/6rJ3WF\nAll Finnish Lessons for Beginners: http://goo.gl/Ju1luE\nTravel videos: http://goo.gl/w0GF9t\n\nLet’s be friends!\nhttps://www.instagram.com/anastasia_semina/\nhttps://www.instagram.com/russian_language_secrets/\nhttps://www.facebook.com/RussianFinnishEnglish/\nhttp://vk.com/russianfinnishenglish\n\nSUBSCRIBE to this channel: \nhttp://www.youtube.com/AnastasiSemina",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/ABvCSXhOViw/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/ABvCSXhOViw/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/ABvCSXhOViw/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/ABvCSXhOViw/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/ABvCSXhOViw/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Hiroshi Ogawa",
+    "playlistId": "PL7sA_SkHX5ye8sYG5tOdvGfNZef5b7hx7",
+    "position": 10,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "ABvCSXhOViw"
+    }
+   },
+   "contentDetails": {
+    "videoId": "ABvCSXhOViw",
+    "videoPublishedAt": "2017-09-20T20:30:56.000Z"
+   },
+   "status": {
+    "privacyStatus": "public"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"p4VTdlkQv3HQeTEaXgvLePAydmU/It08B9KD5kKeeFOfTCp1Ize_qHc\"",
+   "id": "UEw3c0FfU2tIWDV5ZThzWUc1dE9kdkdmTlplZjViN2h4Ny5DNkMwRUI2MkI4QkI4NDFG",
+   "snippet": {
+    "publishedAt": "2019-09-05T05:09:29.000Z",
+    "channelId": "UCRqqejOQm2ZQLHZ62CxXLIA",
+    "title": "🥇 Learn languages with a polyglot! - Russian Vodkast N°14 🥇",
+    "description": "🎯 Is it possible to speak three, four, seven languages? Yes, it is! My beautiful and smart guest Nicole Deli shares her secret life hacks about her language studies. 😍 Video in Russian with Russian and English subtitles.\n\n➡️ Check Nicole's channel: https://www.youtube.com/channel/UCIru6ynTRLJh5Iuo6IDyw6A\n\n➡️ Hundreds of free audio lessons: https://russianpodcast.eu\n➡️ Like my Facebook page:\nhttps://www.facebook.com/russianpodcast/\n➡️ Follow me on Instagram:\nhttps://www.instagram.com/russianpodcast\n➡️ Follow me on Twitter:\nhttps://twitter.com/russian_podcast\n\n➡️🥇 Join Russian Dacha Club! https://russianpodcast.eu/about-russian-podcast-club\n\nRussian Language Vodkast is hosted by Tatiana Klimova from www.russianpodcast.eu. Its main goal is to promote Russian language and to help you to improve your Russian language skills.\nEnjoy!",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/o8VwnODLk_M/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/o8VwnODLk_M/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/o8VwnODLk_M/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/o8VwnODLk_M/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "Hiroshi Ogawa",
+    "playlistId": "PL7sA_SkHX5ye8sYG5tOdvGfNZef5b7hx7",
+    "position": 11,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "o8VwnODLk_M"
+    }
+   },
+   "contentDetails": {
+    "videoId": "o8VwnODLk_M",
+    "videoPublishedAt": "2017-02-20T11:49:10.000Z"
+   },
+   "status": {
+    "privacyStatus": "public"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"p4VTdlkQv3HQeTEaXgvLePAydmU/ENYTftewkK57cArepbO02ogapK0\"",
+   "id": "UEw3c0FfU2tIWDV5ZThzWUc1dE9kdkdmTlplZjViN2h4Ny45NkVENTkxRDdCQUFBMDY4",
+   "snippet": {
+    "publishedAt": "2019-09-04T15:47:27.000Z",
+    "channelId": "UCRqqejOQm2ZQLHZ62CxXLIA",
+    "title": "Связь языка и личности - интервью с Ларисой Баллеани ☯",
+    "description": "Как влияет язык на нашу личность? Почему нам легче ругаться на иностранном языке, чем на родном? Как иностранный язык может помочь нам принять важное решение? Смотрите наше интервью с психологом Ларисой Баллеани. (Бонус 18+ - в конце видео)\n\nЛариса консультирует на русском, немецком и английском языках: https://www.larisa-dr-psychologue.com/\n\nЧлены Клуба Русская Дача получают субтитры на русском и на английском языках: https://russianpodcast.eu/about-russian-podcast-club/\n\nLike my Facebook page:\nhttps://www.facebook.com/russianpodcast/\n\nFollow me on Instagram:\nhttps://www.instagram.com/russianpodcast\n\nFollow me on Twitter:\nhttps://twitter.com/russian_podcast",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/GUlbusT6xKA/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/GUlbusT6xKA/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/GUlbusT6xKA/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/GUlbusT6xKA/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/GUlbusT6xKA/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Hiroshi Ogawa",
+    "playlistId": "PL7sA_SkHX5ye8sYG5tOdvGfNZef5b7hx7",
+    "position": 12,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "GUlbusT6xKA"
+    }
+   },
+   "contentDetails": {
+    "videoId": "GUlbusT6xKA",
+    "videoPublishedAt": "2018-04-16T13:50:02.000Z"
+   },
+   "status": {
+    "privacyStatus": "public"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"p4VTdlkQv3HQeTEaXgvLePAydmU/Jrki_LWfo9IwpLTOHmWGJPd-omM\"",
+   "id": "UEw3c0FfU2tIWDV5ZThzWUc1dE9kdkdmTlplZjViN2h4Ny4zQzFBN0RGNzNFREFCMjBE",
+   "snippet": {
+    "publishedAt": "2019-09-04T15:46:03.000Z",
+    "channelId": "UCRqqejOQm2ZQLHZ62CxXLIA",
+    "title": "Анастасия Семьина: где лучше жить, в большом или в маленьком городе?",
+    "description": "Анастасия Семьина - хозяйка популярного канала для тех, что изучает русский язык. Мы встретились в Санкт-Петербурге, когда я возвращалась из моей поездки в Карелию. Мы с Анастасией не только ровесницы, но и землячки. В этом интервью Анастасия рассказывает, где лучше жить: в маленьком или в большом городе? \n\nЛАЙКАЙТЕ И КОММЕНТИРУЙТЕ! \n\nКанал Анастасии: https://www.youtube.com/user/AnastasiSemina\n\nЧтобы посмотреть это и другие видео с русскими субтитрами, вступайте в Клуб Русская Дача: https://russianpodcast.eu/about-russian-podcast-club\n\nFacebook: https://www.facebook.com/russianpodcast/\n\nInstagram: https://www.instagram.com/russianpodcast/",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/Y4iPJfk9vzw/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/Y4iPJfk9vzw/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/Y4iPJfk9vzw/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/Y4iPJfk9vzw/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/Y4iPJfk9vzw/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Hiroshi Ogawa",
+    "playlistId": "PL7sA_SkHX5ye8sYG5tOdvGfNZef5b7hx7",
+    "position": 13,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "Y4iPJfk9vzw"
+    }
+   },
+   "contentDetails": {
+    "videoId": "Y4iPJfk9vzw",
+    "videoPublishedAt": "2018-08-22T12:33:27.000Z"
+   },
+   "status": {
+    "privacyStatus": "public"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"p4VTdlkQv3HQeTEaXgvLePAydmU/EkazF3mkMxo93ucGlup0Q4s3wcU\"",
+   "id": "UEw3c0FfU2tIWDV5ZThzWUc1dE9kdkdmTlplZjViN2h4Ny5GNDg1Njc1QzZERjlFRjE5",
+   "snippet": {
+    "publishedAt": "2019-09-04T15:45:33.000Z",
+    "channelId": "UCRqqejOQm2ZQLHZ62CxXLIA",
+    "title": "Зоя рассказывает о Петрозаводске и Карелии",
+    "description": "Зоя Тепликова, пресс-секретарь Водлозерского национального парка, рассказывает нам о Петрозаводске и о Карелии. \n\nЧлены Клуба Русская Дача получают субтитры на русском и на английском языках: https://russianpodcast.eu/about-russian-podcast-club\n\nСайт заповедника: http://vodlozero.ru/",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/wwwCnD1Db4A/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/wwwCnD1Db4A/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/wwwCnD1Db4A/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/wwwCnD1Db4A/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/wwwCnD1Db4A/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Hiroshi Ogawa",
+    "playlistId": "PL7sA_SkHX5ye8sYG5tOdvGfNZef5b7hx7",
+    "position": 14,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "wwwCnD1Db4A"
+    }
+   },
+   "contentDetails": {
+    "videoId": "wwwCnD1Db4A",
+    "videoPublishedAt": "2018-06-14T14:13:14.000Z"
+   },
+   "status": {
+    "privacyStatus": "public"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"p4VTdlkQv3HQeTEaXgvLePAydmU/ZV70nuwpwjDWlzDf-eviYpjjD6Y\"",
+   "id": "UEw3c0FfU2tIWDV5ZThzWUc1dE9kdkdmTlplZjViN2h4Ny4xOTEzQzhBQzU3MDNDNjcz",
+   "snippet": {
+    "publishedAt": "2019-09-04T03:21:02.000Z",
+    "channelId": "UCRqqejOQm2ZQLHZ62CxXLIA",
+    "title": "УЧИ АНГЛИЙСКИЙ САМОСТОЯТЕЛЬНО - 18 РЕСУРСОВ",
+    "description": "⠀Ресурсы для самостоятельного изучения английского языка в том числе с нуля.\nЯзыковая школа с бассейном в Лондоне - https://goo.gl/mX2vfo\nРесурсы по английскому языку из этого видео:\n1. Занятия с Анастасией онлайн - https://goo.gl/CYjiuj\n2. Видео Вени об английском на канале VenyaPak TV\n3. Проверка текста на английском языке в режиме реального времени - https://fluent.express\n4. Мой паблик в FB - https://www.facebook.com/linguamarina/\n5. Паблик LinguaTrip.com в FB - https://www.facebook.com/linguatrip/\n6. Паблик Casey Neistat в ФБ - https://www.facebook.com/cneistat/\n7. Паблик моего любимого на данный момент блогера Gary Vee в ФБ - https://www.facebook.com/gary/\n8. Группа LinguaTrip.com VK - https://vk.com/linguatrip\n9. Канал LinguaTrip TV https://www.youtube.com/channel/UCVHjF4F2gI1LsqDYqPajjRA \n10. Канал об ангийском языке English Bro! - https://www.youtube.com/channel/UCDt4AwxX8H3BHiTNtmDu83Q - 11. Мой канал на английском об английском - \nhttps://www.youtube.com/channel/UCAQg09FkoobmLquNNoO4ulg - 12.  Книга Mastering the American Accent - https://amzn.to/2lMwwam\n13. Смотреть сериалы на HBO - \nhttps://.hbonow.com/\n14. Вся Америка смотрит сериалы тут - https://www.netflix.com/\n15. Еще много фильмов на английском тут - https://www.amazon.com/\n16. Книга по грамматике - ваш любимый Ю.Голицынский \n17. Бесплатное приложение по изучению английского Duolingo\n18. Приложение для изучения слов EasyTen\n\n📚 Как получить 40,000 $ в год от университета США на свое образование - дала пошаговую инструкцию в своей книге - http://bit.ly/2sI4bFB\n⭐ INSTAGRAM - https://www.instagram.com/linguamarina\n⭐ VK - https://vk.com/linguatrip\n⭐ МОЯ КОМПАНИЯ В США - https://goo.gl/W9cqDx\n\n📝 Здесь вам носители языка быстро откорректируют текст на английском (еще один проект нашей команды) - https://fluent.express/\n\nМонтаж видео: Алексей Бойченко\n\n📷 НА ЧТО Я СНИМАЮ\nВЛОГИ (на улице):\n- Canon G7X - http://amzn.to/2l2aSfE\nВИДЕО ВНУТРИ (говорящая голова)):\n- Sony A7R II (также отлично подойдет для Instagram) - http://amzn.to/2DrCNTU\n- Sony 50 mm линза - http://amzn.to/2G2r4c4\nSOUND:\n- Zoom H4n Pro (внешний рекордер для звука) - http://amzn.to/2DVJzyr\n- Rode video mic (если таки приходится в камеру писать звук) - http://amzn.to/2BhkCKW\n\n🎈ПРОМО\n$40 НА АРЕНДУ ЖИЛЬЯ НА AIRBNB - https://abnb.me/e/B2yx6PJZER\n$20 НА ПОЕЗДКУ НА ТАКСИ - http://ubr.to/2k1B89L\n\n✈️🇺🇸Для бизнеса в США рекомендую банк Chase (у них за расходы по карте начисляются мили и можно летать бесплатно) - http://bit.ly/2G9DBNU",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/yqbZzeEBPRs/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/yqbZzeEBPRs/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/yqbZzeEBPRs/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/yqbZzeEBPRs/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/yqbZzeEBPRs/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Hiroshi Ogawa",
+    "playlistId": "PL7sA_SkHX5ye8sYG5tOdvGfNZef5b7hx7",
+    "position": 15,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "yqbZzeEBPRs"
+    }
+   },
+   "contentDetails": {
+    "videoId": "yqbZzeEBPRs",
+    "videoPublishedAt": "2018-07-01T06:00:05.000Z"
+   },
+   "status": {
+    "privacyStatus": "public"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"p4VTdlkQv3HQeTEaXgvLePAydmU/lKHbdJpIHs9MWTumshTYezMqSQA\"",
+   "id": "UEw3c0FfU2tIWDV5ZThzWUc1dE9kdkdmTlplZjViN2h4Ny5BRjJDODk5REM0NjkzMUIy",
+   "snippet": {
+    "publishedAt": "2019-09-04T03:17:47.000Z",
+    "channelId": "UCRqqejOQm2ZQLHZ62CxXLIA",
+    "title": "Рим рассказывает об учёбе в Казани",
+    "description": "\"Меня удивило, что русские люди очень… с ними приятно общаться. У меня была в голове идея, что они не смеются, и очень строгие.\"\n\nДачники получают видео из Татарстана с моим папой: https://russianpodcast.eu/about-russian-podcast-club\n\nСлушайте сотни бесплатных подкастов на сайте: https://russianpodcast.eu/\n\nПодписывайтесь на мою страничку в Фейсбуке: https://www.facebook.com/russianpodcast/\n\nВ Инстаграме: https://www.instagram.com/russianpodcast/",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/CqUEL9RXJyE/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/CqUEL9RXJyE/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/CqUEL9RXJyE/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/CqUEL9RXJyE/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/CqUEL9RXJyE/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Hiroshi Ogawa",
+    "playlistId": "PL7sA_SkHX5ye8sYG5tOdvGfNZef5b7hx7",
+    "position": 16,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "CqUEL9RXJyE"
+    }
+   },
+   "contentDetails": {
+    "videoId": "CqUEL9RXJyE",
+    "videoPublishedAt": "2019-09-03T09:01:40.000Z"
+   },
+   "status": {
+    "privacyStatus": "public"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"p4VTdlkQv3HQeTEaXgvLePAydmU/vsV018U5DPj91P3fXz8nE0sp4aU\"",
+   "id": "UEw3c0FfU2tIWDV5ZThzWUc1dE9kdkdmTlplZjViN2h4Ny40QTA3NTU2RkM1QzlCMzYx",
+   "snippet": {
+    "publishedAt": "2019-09-01T05:27:00.000Z",
+    "channelId": "UCRqqejOQm2ZQLHZ62CxXLIA",
+    "title": "УЧИМ 100 ФРАЗ НА АНГЛИЙСКОМ ЯЗЫКЕ ЗА 20 МИНУТ. АНГЛИЙСКИЙ БЫСТРО",
+    "description": "Получить бесплатную консультацию специалиста по обучению за рубежом - http://bit.ly/2N3qLoe \n\nЕсли нужно учить #разговорный #английский совсем быстро, то начните с фраз. Мне очень помогают знания фраз, когда я пытаюсь разобрать речь носителя (а они не всегда понятно говорят). Конечно, #язык - это не только фразы, но и грамматика и многие другие разделы. Но с фраз гораздо легче начинать!\n\nПроверьте уровень английского  - https://goo.gl/JGA5cW \n\nФразы из видео:\n\n1. Stay out of trouble.\n2. Don’t do anything I wouldn’t do. \n3. You’re pushing your luck. \n4. You have your head in the clouds. \n5. Let me know… \n6. Get back to me. \n7. Get over yourself. \n8. Get real. = be realistic\n9. Let’s get down to business. \n10. It was like pulling teeth. \n11. Good to know. \n12. Who knows? \n13. Who cares? = no one cares\n14. Who do you think you are?\n15. Who asked you? \n16. I’d like to pick your brain. \n17. Keep me posted. \n18. I don’t know off the top of my head. \n19. I spoke too soon.  \n20. Keep them on their toes. \n21. I’m sorry for the mix up. \n22. Wait, don’t tell me. \n23. I’d be happy to help. \n24. You get what you pay for. = cheap price = bad quality product \n25. Right this way. = come with me, guiding\n26. I can’t keep up. = too much work, falling behind \n27. Put yourself in my shoes. = imagine it from my point of view\n28. I have too much time on my hands. = too much free time\n29. I have a lot on my plate. = a lot of work\n30. Give me a break. = stop being so rigid, make an exception for me, or you can’t be serious \n32. Stop being so hard on yourself. = stop judging yourself so harshly \n33. How’s work going? = like how’s it going but for work\n34.  Have you heard the good news?\n35. Push back the appointment. = postpone \n36. I don’t want to hear it. = don’t want to hear excuses\n37. I’m losing it. = I’m going crazy\n38. I’ve lost my touch. = I’m not as good at this as I was before\n39. I haven’t kept in touch with them. \n40. Stay in touch. = keep talking to me\n41. You look like a deer in headlights. = frozen with fear\n43. Can I take a message? = phone message\n44. They’re out of the office right now. = not here\n45. They’re not available at the moment. = busy\n46. Don’t push me. \n47. Don’t be so quick to judgment. \n48. I have a bad/good feeling about this. \n49. I can’t imagine. \n50. A little birdie told me. \n51. Make time for (something). \n52. Let me see if I can move some things around. \n53. Look out! \n54. Think fast! \n55. Loosen up.\n56. Put (something) on hold\n57. You can’t be serious.\n60. Go ahead \n61. It’s no big deal. \n62. Will do. \n63. Don’t put me on the spot.\n64. Watch where you’re going.\n65. What can I do for you? \n66. What are you gonna do? \n67. It’s out of my hands. \n68. Hands off! \n69. Hang tight.\n70. Hurry up! \n71. Keep my head above water. \n72. Get out of your comfort zone. \n73. I can’t get that song out of my head. \n74. I can’t put a face to the name. \n75. I have some money burning a hole in my pocket. \n76. You’re playing both sides. \n77. We need to talk. \n78. You’re killing the mood. \n79. You went too far. = said or did something that was in really bad taste - You crossed the line. - same\n80. I’m flattered. = you said something nice to me and I feel good about it\n81. I’m feeling under the weather. \n82. You win some, you lose some. \n83. Please have a seat. \n84. Living beyond your means. \n85. Please excuse us. \n86. You’re all over the place. \n87. I have no idea. \n88. I think there must be some kind of mistake. \n89. Don’t play dumb with me. \n90. I have faith in you. \n91. Get your head in the game. about the task at hand (from sports but applies to anything)\n92. Living the dream. \n93. You pulled a fast one on me.\n94. I want nothing to do with it. \n95. I’m washing my hands of this whole situation. \n96. It’s up to you. \n97. He wouldn’t hurt a fly. \n98. We’re short on time. \n99. I think I’ll pass. \n100. So glad you could make it. \n\n⭐ INSTAGRAM - https://www.instagram.com/linguamarina\n⭐ VK - https://vk.com/linguatrip\n\n📚 Как получить 40,000 $ в год от университета США на свое образование - дала пошаговую инструкцию в своей книге - http://bit.ly/2sI4bFB\n\n📝 Здесь вам носители языка быстро откорректируют текст на английском (еще один проект нашей команды) - https://fluent.express/\n\n📷 НА ЧТО Я СНИМАЮ\nВЛОГИ (на улице):\n- Canon G7X - http://amzn.to/2l2aSfE\nВИДЕО ВНУТРИ (говорящая голова)):\n- Sony A7R II (также отлично подойдет для Instagram) - http://amzn.to/2DrCNTU\n- Sony 50 mm линза - http://amzn.to/2G2r4c4\nSOUND:\n- Zoom H4n Pro (внешний рекордер для звука) - http://amzn.to/2DVJzyr\n- Rode video mic (если таки приходится в камеру писать звук) - http://amzn.to/2BhkCKW\n\n🎈ПРОМО\n$40 НА АРЕНДУ ЖИЛЬЯ НА AIRBNB - https://abnb.me/e/B2yx6PJZER\n$25 НА АРЕНДУ АВТОМОБИЛЯ - https://turo.com/c/dmitryp30\n$5 НА ПОЕЗДКУ НА ТАКСИ - http://ubr.to/2k1B89L",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/m-Lw-Wvnm2Y/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/m-Lw-Wvnm2Y/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/m-Lw-Wvnm2Y/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/m-Lw-Wvnm2Y/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/m-Lw-Wvnm2Y/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Hiroshi Ogawa",
+    "playlistId": "PL7sA_SkHX5ye8sYG5tOdvGfNZef5b7hx7",
+    "position": 17,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "m-Lw-Wvnm2Y"
+    }
+   },
+   "contentDetails": {
+    "videoId": "m-Lw-Wvnm2Y",
+    "videoPublishedAt": "2018-08-29T05:00:01.000Z"
+   },
+   "status": {
+    "privacyStatus": "public"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"p4VTdlkQv3HQeTEaXgvLePAydmU/Y5D_o6AeWVl-I9f_u80K-ZxQ2aU\"",
+   "id": "UEw3c0FfU2tIWDV5ZThzWUc1dE9kdkdmTlplZjViN2h4Ny45RjNFMDhGQ0Q2RkFCQTc1",
+   "snippet": {
+    "publishedAt": "2019-09-01T05:26:51.000Z",
+    "channelId": "UCRqqejOQm2ZQLHZ62CxXLIA",
+    "title": "Как выучить английский: самые важные советы",
+    "description": "Учите английский там, где на нем говорят: http://goo.gl/7rZ3Ja\nСамый лучший преподаватель английского по Скайп - https://goo.gl/zVKRBy\nМоя любимая школа английского в Лондоне - https://goo.gl/jIjlqC\n\nВ видео делюсь своей историей изучения языка, своими методами и тем, что мне действительно помогло. Like, comment, share!\nЯ долго учила английский в школе, но поняла, что совсем не могу на нем говорить, когда приехала в Англию. Эта поездка послужила для меня огромным мотиватором - я захотела говорить на языке так, чтобы меня невозможно было отличить от носителя. Приехав домой, я стала посвящать почти все свободное время изучению английского языка. Я даже отказалась от чтения книг на русском. Итоги и моих трудов и подробности в видео!\n\nМного меня в Инстаграме: https://instagram.com/linguamarina\n\nАнглийский в США - http://www.linguatrip.com\nVK для вопросов - https://vk.com/topic-33302202_32473560\n\n-~-~~-~~~-~~-~-\nМой клип: \"ДЕНЬ ИЗ ЖИЗНИ В АМЕРИКЕ\" \nhttps://www.youtube.com/watch?v=d9SMg9sho6A\n-~-~~-~~~-~~-~-",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/cd8BlLSmiCY/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/cd8BlLSmiCY/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/cd8BlLSmiCY/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/cd8BlLSmiCY/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "Hiroshi Ogawa",
+    "playlistId": "PL7sA_SkHX5ye8sYG5tOdvGfNZef5b7hx7",
+    "position": 18,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "cd8BlLSmiCY"
+    }
+   },
+   "contentDetails": {
+    "videoId": "cd8BlLSmiCY",
+    "videoPublishedAt": "2015-07-26T07:55:41.000Z"
+   },
+   "status": {
+    "privacyStatus": "public"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"p4VTdlkQv3HQeTEaXgvLePAydmU/81YrvyBXkL59Nq_RcB5C-urgaJY\"",
+   "id": "UEw3c0FfU2tIWDV5ZThzWUc1dE9kdkdmTlplZjViN2h4Ny5CMEQ2Mjk5NTc3NDZFRUNB",
+   "snippet": {
+    "publishedAt": "2019-09-01T05:25:58.000Z",
+    "channelId": "UCRqqejOQm2ZQLHZ62CxXLIA",
+    "title": "Суппон и Нэкомышка - разговор с Ютоком Исиямой 🐢🐭",
+    "description": "Полная транскрипция в Клубе Русская Дача: https://russianpodcast.eu/about-russian-podcast-club\n\n\"Сначала я рисую комиксы, потом сразу показываю их в Интернете. Потому что я хочу собирать мнения читателей и разговаривать с ними об истории.\"\n\nУра, готово бесплатное интервью с Ютоком Исиямой. Юток - \"мангака\", японский автор комиксов... на русском языке. Он превращает грамматическую ошибку в забавную историю. Слушайте подкаст на сайте: https://russianpodcast.eu/\n\nКомиксы Ютока можно посмотреть здесь: https://www.ozon.ru/context/detail/id/155097824/",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/--NxrV5abbo/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/--NxrV5abbo/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/--NxrV5abbo/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/--NxrV5abbo/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/--NxrV5abbo/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Hiroshi Ogawa",
+    "playlistId": "PL7sA_SkHX5ye8sYG5tOdvGfNZef5b7hx7",
+    "position": 19,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "--NxrV5abbo"
+    }
+   },
+   "contentDetails": {
+    "videoId": "--NxrV5abbo",
+    "videoPublishedAt": "2019-08-31T10:15:45.000Z"
+   },
+   "status": {
+    "privacyStatus": "public"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"p4VTdlkQv3HQeTEaXgvLePAydmU/nsW4WAwcam7EutagACy8bm67DjM\"",
+   "id": "UEw3c0FfU2tIWDV5ZThzWUc1dE9kdkdmTlplZjViN2h4Ny4zRDBDOEZDOUM0MDY5NEEz",
+   "snippet": {
+    "publishedAt": "2019-09-01T05:25:29.000Z",
+    "channelId": "UCRqqejOQm2ZQLHZ62CxXLIA",
+    "title": "Teaching Russian in France / Russian Conversations 12",
+    "description": "скачать mp3 и pdf: https://wp.me/p9ZshK-mx\nрассылка: http://eepurl.com/dywTVb\n\nинста Кости: https://www.instagram.com/k_matsevich/\n\nвсе диалоги: https://bit.ly/2EctMNv\nперевести это видео: https://bit.ly/2EdgRe3\n\nсайт: https://russianprogress.com\nподкаст: https://apple.co/2Go1bXD\nфейсбук: https://www.facebook.com/russianprogress/\nинстаграм: https://www.instagram.com/russianprogress/\n\nподдержать проект:\nhttps://www.patreon.com/russianprogress\nhttps://www.paypal.me/russianprogress\n\nзанятия по русскому: https://wp.me/P9ZshK-fo\nсвязаться: russianprogressinbox@gmail.com",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/aLN7NbI-VR0/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/aLN7NbI-VR0/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/aLN7NbI-VR0/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/aLN7NbI-VR0/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/aLN7NbI-VR0/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Hiroshi Ogawa",
+    "playlistId": "PL7sA_SkHX5ye8sYG5tOdvGfNZef5b7hx7",
+    "position": 20,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "aLN7NbI-VR0"
+    }
+   },
+   "contentDetails": {
+    "videoId": "aLN7NbI-VR0",
+    "videoPublishedAt": "2018-12-26T09:00:28.000Z"
+   },
+   "status": {
+    "privacyStatus": "public"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"p4VTdlkQv3HQeTEaXgvLePAydmU/DNKsi0mTwVr0SI8021K50FKsDFU\"",
+   "id": "UEw3c0FfU2tIWDV5ZThzWUc1dE9kdkdmTlplZjViN2h4Ny41QUZGQTY5OTE4QTREQUU4",
+   "snippet": {
+    "publishedAt": "2019-08-29T17:07:18.000Z",
+    "channelId": "UCRqqejOQm2ZQLHZ62CxXLIA",
+    "title": "Learn Russian Vocabulary: Construction and Tools",
+    "description": "This is a Russian Vocabulary in use series. Today we will talk about construction, tools and other words and phrases.\n\n►New Lesson Pack is available:\nhttps://www.russianwithmax.com/product/russian-through-stories-lesson-pack/\n\n►Membership program for intermediate learners:\nhttps://www.russianwithmax.com/russian-audio-lessons/\n\n►Comprehensible Russian Podcast:\nhttps://www.russianwithmax.com/category/russian-podcast/\n\n►This channel is 100% supported by learners. Thank you a lot!\nPatreon:\nhttps://www.patreon.com/russianwithmax\nPayPal:\nhttps://www.paypal.me/MaxPimenov",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/eDUgFKrJG8o/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/eDUgFKrJG8o/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/eDUgFKrJG8o/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/eDUgFKrJG8o/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/eDUgFKrJG8o/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Hiroshi Ogawa",
+    "playlistId": "PL7sA_SkHX5ye8sYG5tOdvGfNZef5b7hx7",
+    "position": 21,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "eDUgFKrJG8o"
+    }
+   },
+   "contentDetails": {
+    "videoId": "eDUgFKrJG8o",
+    "videoPublishedAt": "2019-08-28T16:00:16.000Z"
+   },
+   "status": {
+    "privacyStatus": "public"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"p4VTdlkQv3HQeTEaXgvLePAydmU/y2Wp6eRSrPopinn1u-jtswAdJdE\"",
+   "id": "UEw3c0FfU2tIWDV5ZThzWUc1dE9kdkdmTlplZjViN2h4Ny43NDhFRTgwOTRERTU4Rjg3",
+   "snippet": {
+    "publishedAt": "2019-08-29T17:07:02.000Z",
+    "channelId": "UCRqqejOQm2ZQLHZ62CxXLIA",
+    "title": "ЗАМУЖЕМ или ЗАМУЖ? 💍",
+    "description": "\"Я НЕ ЗАМУЖЕМ, потому что я не вижу в этом смысла, а вот моя хорошая подруга из Квебека недавно ВЫШЛА ЗАМУЖ.\"\n\nПочему иногда мы говорим ЗАМУЖЕМ, а иногда ЗАМУЖ? Смотрите это видео на простом русском языке. \n\nВидео и подкасты каждые пять дней в моём Клубе Русская Дача: https://russianpodcast.eu/about-russian-podcast-club\n\nСотни бесплатных подкастов на сайте: https://russianpodcast.eu\n\nПодписывайтесь на мою страничку в Фейсбуке: https://www.facebook.com/russianpodcast\n\nВ Инстаграме: https://www.instagram.com/russianpodcast",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/G6xARdCaXns/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/G6xARdCaXns/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/G6xARdCaXns/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Hiroshi Ogawa",
+    "playlistId": "PL7sA_SkHX5ye8sYG5tOdvGfNZef5b7hx7",
+    "position": 22,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "G6xARdCaXns"
+    }
+   },
+   "contentDetails": {
+    "videoId": "G6xARdCaXns",
+    "videoPublishedAt": "2019-08-27T06:19:18.000Z"
+   },
+   "status": {
+    "privacyStatus": "public"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"p4VTdlkQv3HQeTEaXgvLePAydmU/2BIfM4HkJLJtNyWZ0-5dL80F2uc\"",
+   "id": "UEw3c0FfU2tIWDV5ZThzWUc1dE9kdkdmTlplZjViN2h4Ny44Mjc5REFBRUE2MTdFRDU0",
+   "snippet": {
+    "publishedAt": "2019-08-23T14:16:43.000Z",
+    "channelId": "UCRqqejOQm2ZQLHZ62CxXLIA",
+    "title": "\"В Казани люди спокойно уживаются друг с другом\" 💙",
+    "description": "Ольга живёт в Казани. Мы говорим о жизни в городе, о любимых местах Ольги и о смеси культур и религий.\n\n\"Люди спокойно уживаются друг с другом. Всем достаточно комфортно. Если говорить о рабочих местах, то агрессии, каких-то межнациональных розней, ничего нет\". \n\nЧтобы посмотреть все видео из нашей с папой поездки в Татарстан, вступайте в мой Клуб для позитивных и мотивированных людей: https://russianpodcast.eu/about-russian-podcast-club\n\nСлушайте сотни бесплатных подкастов на сайте: https://russianpodcast.eu/\n\nПодписывайтесь на мою страничку в Фейсбуке: https://www.facebook.com/russianpodcast/\n\nВ Инстаграме: https://www.instagram.com/russianpodcast/",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/QpAjkbVJUgg/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/QpAjkbVJUgg/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/QpAjkbVJUgg/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/QpAjkbVJUgg/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/QpAjkbVJUgg/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Hiroshi Ogawa",
+    "playlistId": "PL7sA_SkHX5ye8sYG5tOdvGfNZef5b7hx7",
+    "position": 23,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "QpAjkbVJUgg"
+    }
+   },
+   "contentDetails": {
+    "videoId": "QpAjkbVJUgg",
+    "videoPublishedAt": "2019-08-06T09:11:03.000Z"
+   },
+   "status": {
+    "privacyStatus": "public"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"p4VTdlkQv3HQeTEaXgvLePAydmU/IRB0XEXZ_SL0U23oXAf64xdJy18\"",
+   "id": "UEw3c0FfU2tIWDV5ZThzWUc1dE9kdkdmTlplZjViN2h4Ny5DMkU4NTY1QUFGQTYwMDE3",
+   "snippet": {
+    "publishedAt": "2019-08-23T14:16:14.000Z",
+    "channelId": "UCRqqejOQm2ZQLHZ62CxXLIA",
+    "title": "СПРОСИТЬ и ПОПРОСИТЬ - какая разница? 🙏",
+    "description": "Клуб Русская Дача: https://russianpodcast.eu/about-russian-podcast-club\n\nСПРАШИВАТЬ-СПРОСИТЬ = нам нужна информация. \n\n- Где документы?\n- Не знаю, спроси у Антона.\n\nПРОСИТЬ-ПОПРОСИТЬ = нам нужно, чтобы для нас что-то сделали:\n\n- У тебя есть ножницы?\n- Нет, попроси у Антона (\"дать тебе ножницы\"). \n\nСлушайте сотни бесплатных подкастов на сайте: https://russianpodcast.eu\n\nПодписывайтесь на мою страничку в Фейсбуке: https://www.facebook.com/russianpodcast\n\nВ Инстаграме: https://www.instagram.com/russianpodcast",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/D-lCKr3tm4k/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/D-lCKr3tm4k/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/D-lCKr3tm4k/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Hiroshi Ogawa",
+    "playlistId": "PL7sA_SkHX5ye8sYG5tOdvGfNZef5b7hx7",
+    "position": 24,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "D-lCKr3tm4k"
+    }
+   },
+   "contentDetails": {
+    "videoId": "D-lCKr3tm4k",
+    "videoPublishedAt": "2019-08-13T11:39:13.000Z"
+   },
+   "status": {
+    "privacyStatus": "public"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"p4VTdlkQv3HQeTEaXgvLePAydmU/lSK5h7I1MtS_e4-mTusGbnPhzNE\"",
+   "id": "UEw3c0FfU2tIWDV5ZThzWUc1dE9kdkdmTlplZjViN2h4Ny4yQUE2Q0JEMTk4NTM3RTZC",
+   "snippet": {
+    "publishedAt": "2019-08-23T14:15:51.000Z",
+    "channelId": "UCRqqejOQm2ZQLHZ62CxXLIA",
+    "title": "\"Я катался зимой на коньках. Потом неделю ноги болели\". 🧑⛷️",
+    "description": "Реза - афганец, он учится на переводчика в Казани, столице Татарстана. Он отлично говорит по-русски. Мы с Резой говорим о том, почему он выбрал Казань, что его удивило в России, что самое трудное в русском языке. Он также забавно рассказывает о его опыте катания на коньках.\n\nСпасибо Резе за субтитры: https://www.facebook.com/reza.hasanzada.77\n\nДачники получают видео из Татарстана с моим папой: https://russianpodcast.eu/about-russian-podcast-club\n\nСлушайте сотни бесплатных подкастов на сайте: https://russianpodcast.eu/\n\nПодписывайтесь на мою страничку в Фейсбуке: https://www.facebook.com/russianpodcast/\n\nВ Инстаграме: https://www.instagram.com/russianpodcast/",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/YMJNfmlTpdY/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/YMJNfmlTpdY/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/YMJNfmlTpdY/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/YMJNfmlTpdY/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/YMJNfmlTpdY/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Hiroshi Ogawa",
+    "playlistId": "PL7sA_SkHX5ye8sYG5tOdvGfNZef5b7hx7",
+    "position": 25,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "YMJNfmlTpdY"
+    }
+   },
+   "contentDetails": {
+    "videoId": "YMJNfmlTpdY",
+    "videoPublishedAt": "2019-08-20T14:06:48.000Z"
+   },
+   "status": {
+    "privacyStatus": "public"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"p4VTdlkQv3HQeTEaXgvLePAydmU/Kxhv5jwMpV3CHgZRfQWOhsThSiU\"",
+   "id": "UEw3c0FfU2tIWDV5ZThzWUc1dE9kdkdmTlplZjViN2h4Ny5DQ0MyQ0Y4Mzg0M0VGOEYw",
+   "snippet": {
+    "publishedAt": "2019-08-23T14:15:22.000Z",
+    "channelId": "UCRqqejOQm2ZQLHZ62CxXLIA",
+    "title": "КАК УЧИТЬ 100+ АНГЛИЙСКИХ СЛОВ В ДЕНЬ",
+    "description": "⠀Разберем методы, которыми пользуются полиглоты для быстрого освоения нового языка. Изучение английского язык за границей (поездка от одной недели, с любым уровнем языка) - https://goo.gl/8xDiUT\n\nТоп-100 самых употребляемых слов в английском языке - https://www.youtube.com/watch?v=KR7cFb-GwaU\n\n📚 Как получить 40,000 $ в год от университета США на свое образование - дала пошаговую инструкцию в своей книге - http://bit.ly/2sI4bFB\n\nВ этом видео расскажу о методах, которые помогают учить английский быстро, запоминать английские слова даже когда учишь английский с нуля.\n\n⭐ INSTAGRAM - LINGUAMARINA\n⭐ VK - https://vk.com/linguatrip\n⭐ МОЯ КОМПАНИЯ В США - https://goo.gl/W9cqDx\n\n📝 Здесь вам носители языка быстро откорректируют текст на английском (еще один проект нашей команды) - https://fluent.express/\n\n📷 НА ЧТО Я СНИМАЮ\nВЛОГИ (на улице):\n- Canon G7X - http://amzn.to/2l2aSfE\nВИДЕО ВНУТРИ (говорящая голова)):\n- Sony A7R II (также отлично подойдет для Instagram) - http://amzn.to/2DrCNTU\n- Sony 50 mm линза - http://amzn.to/2G2r4c4\nSOUND:\n- Zoom H4n Pro (внешний рекордер для звука) - http://amzn.to/2DVJzyr\n- Rode video mic (если таки приходится в камеру писать звук) - http://amzn.to/2BhkCKW\n\n💁🏻\u200d♀️ПРОДУКТЫ, КОТОРЫМИ Я ПОЛЬЗУЮСЬ https://www.amazon.com/shop/linguamarina \n\n🎈ПРОМО\n$40 НА АРЕНДУ ЖИЛЬЯ НА AIRBNB - https://abnb.me/e/B2yx6PJZER\n$20 НА ПОЕЗДКУ НА ТАКСИ - http://ubr.to/2k1B89L",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/Z-VXPzxp-xc/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/Z-VXPzxp-xc/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/Z-VXPzxp-xc/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/Z-VXPzxp-xc/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/Z-VXPzxp-xc/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Hiroshi Ogawa",
+    "playlistId": "PL7sA_SkHX5ye8sYG5tOdvGfNZef5b7hx7",
+    "position": 26,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "Z-VXPzxp-xc"
+    }
+   },
+   "contentDetails": {
+    "videoId": "Z-VXPzxp-xc",
+    "videoPublishedAt": "2018-02-07T05:00:03.000Z"
+   },
+   "status": {
+    "privacyStatus": "public"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"p4VTdlkQv3HQeTEaXgvLePAydmU/eKki_zpb9n5b4p3pRKT-Tl5llaE\"",
+   "id": "UEw3c0FfU2tIWDV5ZThzWUc1dE9kdkdmTlplZjViN2h4Ny43MTI1NDIwOTMwQjIxMzNG",
+   "snippet": {
+    "publishedAt": "2019-08-23T14:15:09.000Z",
+    "channelId": "UCRqqejOQm2ZQLHZ62CxXLIA",
+    "title": "Filler Words In Russian With Anastasia Semina",
+    "description": "Hey there! Привет!\nRecently we met up with Anastasia Semina and we talked about Russian filler words. In this video you will see 7 Russian filler words, which allow you to fill gaps when you are speaking. \n\n\nAnastasia Semina's Channel\nhttps://www.youtube.com/user/AnastasiSemina\n\nThank you for supporting this channel! It helps a lot!\nhttps://www.paypal.me/MaxPimenov\n\nAll videos sorted by level:\n\nFor intermediate:\nhttps://www.youtube.com/playlist?list=PLNHnL8hclQYtHzdmUM58OR8pg3e-6JAeM\n\nFor beginners:\nhttps://www.youtube.com/playlist?list=PLNHnL8hclQYs3AXMufx8R1dYrp7jJzXLk\n\nSlow Russian listening videos:\nhttps://www.youtube.com/watch?v=KS82DPA66FU&list=PLNHnL8hclQYuBsk3dVs9H3_fudaJbExLu",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/sWrxfAyQu8c/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/sWrxfAyQu8c/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/sWrxfAyQu8c/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/sWrxfAyQu8c/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/sWrxfAyQu8c/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Hiroshi Ogawa",
+    "playlistId": "PL7sA_SkHX5ye8sYG5tOdvGfNZef5b7hx7",
+    "position": 27,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "sWrxfAyQu8c"
+    }
+   },
+   "contentDetails": {
+    "videoId": "sWrxfAyQu8c",
+    "videoPublishedAt": "2018-08-21T04:15:02.000Z"
+   },
+   "status": {
+    "privacyStatus": "public"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"p4VTdlkQv3HQeTEaXgvLePAydmU/I1D5e2Z2sF9JTVAWMZQcQdiuFak\"",
+   "id": "UEw3c0FfU2tIWDV5ZThzWUc1dE9kdkdmTlplZjViN2h4Ny5DNzE1RjZEMUZCMjA0RDBB",
+   "snippet": {
+    "publishedAt": "2019-08-18T09:36:53.000Z",
+    "channelId": "UCRqqejOQm2ZQLHZ62CxXLIA",
+    "title": "Learn Russian Culture And Traditions - Mushrooms",
+    "description": "Today we will learn some Russian culture and traditions!\nWhat do we have in the forest?\nWhich mushrooms are edible?\n\n►New Lesson Pack is available:\nhttps://www.russianwithmax.com/product/russian-through-stories-lesson-pack/\n\n►Membership program for intermediate learners:\nhttps://www.russianwithmax.com/russian-audio-lessons/\n\n►This channel is 100% supported by learners. Thank you a lot!\nPatreon:\nhttps://www.patreon.com/russianwithmax\nPayPal:\nhttps://www.paypal.me/MaxPimenov",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/CJg-EXAjkZ8/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/CJg-EXAjkZ8/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/CJg-EXAjkZ8/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/CJg-EXAjkZ8/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/CJg-EXAjkZ8/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Hiroshi Ogawa",
+    "playlistId": "PL7sA_SkHX5ye8sYG5tOdvGfNZef5b7hx7",
+    "position": 28,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "CJg-EXAjkZ8"
+    }
+   },
+   "contentDetails": {
+    "videoId": "CJg-EXAjkZ8",
+    "videoPublishedAt": "2019-08-08T21:46:52.000Z"
+   },
+   "status": {
+    "privacyStatus": "public"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"p4VTdlkQv3HQeTEaXgvLePAydmU/fNgYmQrggvq9WSRPc2h4Zd6Ui5Q\"",
+   "id": "UEw3c0FfU2tIWDV5ZThzWUc1dE9kdkdmTlplZjViN2h4Ny45NzUwQkI1M0UxNThBMkU0",
+   "snippet": {
+    "publishedAt": "2019-08-18T09:36:15.000Z",
+    "channelId": "UCRqqejOQm2ZQLHZ62CxXLIA",
+    "title": "ПРОБОВАТЬ - СТАРАТЬСЯ - ПЫТАТЬСЯ 🤸\u200d♀️🤸\u200d♀️🤸\u200d♀️",
+    "description": "Мой Клуб Русская Дача для мотивированных и позитивных людей. Подкасты и видео каждые пять дней: https://russianpodcast.eu/about-russian-podcast-club\n\nПРОБОВАТЬ = эксперимент: \"Я пробую делать деревянную мебель\".\n\nСТАРАТЬСЯ (СТАРАНИЕ) - делать что-то хорошо. Позитивная эмоция: \"Постарайтесь окружить себя русскими словами\". \n\nПЫТАТЬСЯ (ПЫТКА) - когда нам трудно что-то делать. Негативная эмоция: \"Я пытаюсь зайти в мой аккаунт, но у меня не получается\". \n\nСлушайте сотни бесплатных подкастов на сайте: https://russianpodcast.eu/\n\nПодписывайтесь на мою страничку в Фейсбуке: https://www.facebook.com/russianpodcast/\n\nВ Инстаграме: https://www.instagram.com/russianpodcast/",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/N979h8O9JEs/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/N979h8O9JEs/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/N979h8O9JEs/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/N979h8O9JEs/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "Hiroshi Ogawa",
+    "playlistId": "PL7sA_SkHX5ye8sYG5tOdvGfNZef5b7hx7",
+    "position": 29,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "N979h8O9JEs"
+    }
+   },
+   "contentDetails": {
+    "videoId": "N979h8O9JEs",
+    "videoPublishedAt": "2019-07-16T06:16:27.000Z"
+   },
+   "status": {
+    "privacyStatus": "public"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"p4VTdlkQv3HQeTEaXgvLePAydmU/mN2EOo_RLmVGULNKHuhGTwHipO8\"",
+   "id": "UEw3c0FfU2tIWDV5ZThzWUc1dE9kdkdmTlplZjViN2h4Ny4zRjM0MkVCRTg0MkYyQTM0",
+   "snippet": {
+    "publishedAt": "2019-08-18T09:36:08.000Z",
+    "channelId": "UCRqqejOQm2ZQLHZ62CxXLIA",
+    "title": "Polyglots speaking Russian (part 2)",
+    "description": "Получить транскрипцию в формате PDF:\nhttps://www.patreon.com/posts/27838699\n\n00:00 Амир из Малайзии / https://www.instagram.com/warnam0706/\n3:03 Кевин из США / https://www.instagram.com/kebuhcah/\n7:27 Ангела из Германии\n11:47 Марк из Англии / https://www.instagram.com/lingua_files/\n16:00 Мартин из Словакии\n21:26 Томас из Бельгии / https://www.instagram.com/blondandbelgian/\n24:58 Матильда из Польши\n\nПодкаст Russian Progress:\nhttps://apple.co/2Go1bXD\n\n✊ Поддержать (огромное спасибо!):\nhttps://www.patreon.com/russianprogress\nhttps://www.paypal.me/russianprogress",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/T8mRUFn4oxU/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/T8mRUFn4oxU/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/T8mRUFn4oxU/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/T8mRUFn4oxU/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/T8mRUFn4oxU/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Hiroshi Ogawa",
+    "playlistId": "PL7sA_SkHX5ye8sYG5tOdvGfNZef5b7hx7",
+    "position": 30,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "T8mRUFn4oxU"
+    }
+   },
+   "contentDetails": {
+    "videoId": "T8mRUFn4oxU",
+    "videoPublishedAt": "2019-06-23T11:16:45.000Z"
+   },
+   "status": {
+    "privacyStatus": "public"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"p4VTdlkQv3HQeTEaXgvLePAydmU/u4RwiTrhSwrvR-EyPNaXvQv0KB8\"",
+   "id": "UEw3c0FfU2tIWDV5ZThzWUc1dE9kdkdmTlplZjViN2h4Ny5GM0Q3M0MzMzY5NTJFNTdE",
+   "snippet": {
+    "publishedAt": "2019-08-18T09:36:04.000Z",
+    "channelId": "UCRqqejOQm2ZQLHZ62CxXLIA",
+    "title": "Russian with Anastasia / Russian Conversations 7",
+    "description": "скачать mp3 и pdf: https://wp.me/p9ZshK-iX\nрассылка: http://eepurl.com/dywTVb\n\nканал Насти: https://bit.ly/2t4bWoM\nвидос из Архангельска: https://bit.ly/2S3zNzI\n\nобщаюсь с другом путешественником: https://bit.ly/2EaCKKQ\nвсе диалоги: https://bit.ly/2EctMNv\n\nперевести это видео: https://bit.ly/2SCGoGk\n\nсайт: https://russianprogress.com\nподкаст: https://apple.co/2Go1bXD\nфейсбук: https://www.facebook.com/russianprogress/\nинстаграм: https://www.instagram.com/russianprogress/\n\nподдержать проект:\nhttps://www.patreon.com/russianprogress\nhttps://www.paypal.me/russianprogress\n\nзанятия по русскому: https://wp.me/P9ZshK-fo\nсвязаться: russianprogressinbox@gmail.com",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/MAD8E-SybXU/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/MAD8E-SybXU/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/MAD8E-SybXU/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/MAD8E-SybXU/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/MAD8E-SybXU/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Hiroshi Ogawa",
+    "playlistId": "PL7sA_SkHX5ye8sYG5tOdvGfNZef5b7hx7",
+    "position": 31,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "MAD8E-SybXU"
+    }
+   },
+   "contentDetails": {
+    "videoId": "MAD8E-SybXU",
+    "videoPublishedAt": "2018-10-07T22:26:38.000Z"
+   },
+   "status": {
+    "privacyStatus": "public"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"p4VTdlkQv3HQeTEaXgvLePAydmU/BT_k_2cV8eXQl0kX0PCjKzk_J8g\"",
+   "id": "UEw3c0FfU2tIWDV5ZThzWUc1dE9kdkdmTlplZjViN2h4Ny4yMDhBMkNBNjRDMjQxQTg1",
+   "snippet": {
+    "publishedAt": "2019-08-18T09:35:57.000Z",
+    "channelId": "UCRqqejOQm2ZQLHZ62CxXLIA",
+    "title": "Russian with Anastasia, Tamara and Artem – Conversation with Russian teachers",
+    "description": "Полная транскрипция и PDF:\nhttps://www.patreon.com/posts/28561928\n\nRussian Progress ebook (скоро)\nhttps://gumroad.com/russianprogress/\n\n1:02 Почему вы преподаёте русский язык?\n2:59 Из каких стран ваши ученики?\n3:48 Как вы преподаёте русский?\n5:22 О чём говорить на занятии\n7:01 Три совета изучающим русский\n\nКаналы\nАнастасии: https://www.youtube.com/user/AnastasiSemina\nТамары: https://www.youtube.com/channel/UCh-Bcw_goZY5mypR_mt7GoQ\n\nИнстаграмы\nАнастасии: https://www.instagram.com/russian_language_secrets/\nТамары: https://www.instagram.com/russianwithtamara/\nАртёма: https://www.instagram.com/russianprogress/\n\nСайт: https://russianprogress.com\nПодкаст: https://apple.co/2Go1bXD\nНовости: http://eepurl.com/dywTVb\n\n✊ Поддержать (огромное спасибо!):\nhttps://www.patreon.com/russianprogress\nhttps://www.paypal.me/russianprogress",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/ThMNECpBjUg/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/ThMNECpBjUg/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/ThMNECpBjUg/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/ThMNECpBjUg/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/ThMNECpBjUg/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Hiroshi Ogawa",
+    "playlistId": "PL7sA_SkHX5ye8sYG5tOdvGfNZef5b7hx7",
+    "position": 32,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "ThMNECpBjUg"
+    }
+   },
+   "contentDetails": {
+    "videoId": "ThMNECpBjUg",
+    "videoPublishedAt": "2019-07-22T14:01:32.000Z"
+   },
+   "status": {
+    "privacyStatus": "public"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"p4VTdlkQv3HQeTEaXgvLePAydmU/6QcJKOtr-_YfroXNiacYMuULjgM\"",
+   "id": "UEw3c0FfU2tIWDV5ZThzWUc1dE9kdkdmTlplZjViN2h4Ny5ENDU4Q0M4RDExNzM1Mjcy",
+   "snippet": {
+    "publishedAt": "2019-08-17T14:39:08.000Z",
+    "channelId": "UCRqqejOQm2ZQLHZ62CxXLIA",
+    "title": "Vlog in Russian # 32 - I CAN FLY!",
+    "description": "Giving \"emotion\" as a gift is a very common thing in Russia.\n\nOnce I talked about one of my birthday gifts when my girlfriend and I went to ethnic park called Etmomir.\nNow 6 months later I used another \"certificate\" and went flying!\n\n►More \"serious\" topics are in our Russian podcast:\nhttps://www.russianwithmax.com/category/russian-podcast/\n\n►New Lesson Pack is available:\nhttps://www.russianwithmax.com/product/russian-through-stories-lesson-pack/\n\n►Membership program for intermediate learners:\nhttps://www.russianwithmax.com/russian-audio-lessons/\n\n►This channel is 100% supported by learners. Thank you a lot!\nPatreon:\nhttps://www.patreon.com/russianwithmax\nPayPal:\nhttps://www.paypal.me/MaxPimenov",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/l4t_6jLnLuw/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/l4t_6jLnLuw/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/l4t_6jLnLuw/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/l4t_6jLnLuw/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/l4t_6jLnLuw/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Hiroshi Ogawa",
+    "playlistId": "PL7sA_SkHX5ye8sYG5tOdvGfNZef5b7hx7",
+    "position": 33,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "l4t_6jLnLuw"
+    }
+   },
+   "contentDetails": {
+    "videoId": "l4t_6jLnLuw",
+    "videoPublishedAt": "2019-08-15T15:18:12.000Z"
+   },
+   "status": {
+    "privacyStatus": "public"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"p4VTdlkQv3HQeTEaXgvLePAydmU/iuxaeaJPaXev51uyqpHiYJqEgCs\"",
+   "id": "UEw3c0FfU2tIWDV5ZThzWUc1dE9kdkdmTlplZjViN2h4Ny4yMUQyQTQzMjRDNzMyQTMy",
+   "snippet": {
+    "publishedAt": "2019-08-12T15:05:28.000Z",
+    "channelId": "UCRqqejOQm2ZQLHZ62CxXLIA",
+    "title": "Russian Conversations 45. Artem Nazarov from Russian Progress",
+    "description": "⭐️ Talk to Artem here: https://www.youtube.com/russianprogress\nhttps://www.instagram.com/russianprogress/\nhttps://www.youtube.com/artemnazaroff\nhttps://www.instagram.com/artemnazaroff/\n\n⭐️ The full program about the polyglots (mentioned in the video): https://youtu.be/rvaYAhmddwM\n\n⭐️ Talk to me here: https://www.instagram.com/anastasia_semina/\nhttps://www.instagram.com/russian_language_secrets/\nhttps://www.facebook.com/RussianFinnishEnglish/\nhttps://vk.com/russianfinnishenglish\n\n⭐️ You can support my channel here:\nhttps://www.patreon.com/anastasisemina\nhttps://www.paypal.me/anastasiasemina\n\n#RussianConversations #RussianProgress #RussianLessons",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/bVlFUcVNErs/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/bVlFUcVNErs/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/bVlFUcVNErs/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/bVlFUcVNErs/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/bVlFUcVNErs/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Hiroshi Ogawa",
+    "playlistId": "PL7sA_SkHX5ye8sYG5tOdvGfNZef5b7hx7",
+    "position": 34,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "bVlFUcVNErs"
+    }
+   },
+   "contentDetails": {
+    "videoId": "bVlFUcVNErs",
+    "videoPublishedAt": "2019-08-12T13:25:00.000Z"
+   },
+   "status": {
+    "privacyStatus": "public"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"p4VTdlkQv3HQeTEaXgvLePAydmU/XlXbKyQaJDeQc5MKCnN35F1fwfY\"",
+   "id": "UEw3c0FfU2tIWDV5ZThzWUc1dE9kdkdmTlplZjViN2h4Ny41QTY1Q0UxMTVCODczNThE",
+   "snippet": {
+    "publishedAt": "2019-08-12T15:05:19.000Z",
+    "channelId": "UCRqqejOQm2ZQLHZ62CxXLIA",
+    "title": "Vlog in Russian 25. GOLDEN RING OF RUSSIA - part 1. Эко-парк отель \"Золотое Кольцо\"",
+    "description": "Learn more about the hotel: https://zolotoe-kolco33.ru\nKatya's YouTube channel: https://www.youtube.com/user/Zhukova100\nSupport me on Patreon (even 1 dollar matters!): https://www.patreon.com/anastasisemina\nFind me on Instagram: https://www.instagram.com/russian_language_secrets/\nFind me on Facebook: https://www.facebook.com/RussianFinnishEnglish/\n\nI hope you enjoy this video. Stay tuned for the part 2! :)\n\n#travelRussia #GoldenRingofRussia #learningRussian",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/5gxkHZriN6s/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/5gxkHZriN6s/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/5gxkHZriN6s/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/5gxkHZriN6s/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/5gxkHZriN6s/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Hiroshi Ogawa",
+    "playlistId": "PL7sA_SkHX5ye8sYG5tOdvGfNZef5b7hx7",
+    "position": 35,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "5gxkHZriN6s"
+    }
+   },
+   "contentDetails": {
+    "videoId": "5gxkHZriN6s",
+    "videoPublishedAt": "2019-07-31T20:12:33.000Z"
+   },
+   "status": {
+    "privacyStatus": "public"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"p4VTdlkQv3HQeTEaXgvLePAydmU/y2tewTtIyxDbTBMxZKDzZrsn83k\"",
+   "id": "UEw3c0FfU2tIWDV5ZThzWUc1dE9kdkdmTlplZjViN2h4Ny5EQUE1NTFDRjcwMDg0NEMz",
+   "snippet": {
+    "publishedAt": "2019-07-08T16:53:02.000Z",
+    "channelId": "UCRqqejOQm2ZQLHZ62CxXLIA",
+    "title": "15 фразовых глаголов для начинающих│ English Spot - разговорный английский",
+    "description": "👉#фразовыеглаголы - одна из самых сложных тем в английском, но это не значит, что ее неинтересно изучать. В этом видео мы с вами рассмотрим 15 самых базовых фразовых глаголов, с которых стоит начать знакомство с этой темой. #английскийпофильмам учить гораздо интереснее, поэтому к каждому глаголу будут вставки с примерами из кино. Ничего страшного, если вы не запомните эти глаголы после первого же просмотра. Ниже в комментариях я прикреплю список этих глаголов, чтобы вы могли самостоятельно поработать с ними. Цель этого видео, в первую очередь, в легкой и непринужденной обстановке ознакомиться с тем, как фразовые глаголы употребляются в речи. После просмотра видео, попробуйте самостоятельно составить аналогичные предложения с каждым  фразовым глаголом для лучшего запоминания информации.\nТакже хочу отметить, что в видео намеренно опущена тема деления фразовых глаголов (figure out how, figure it out) чтобы не перегружать информацией.\nИскренне надеюсь, что вам понравится это видео ❤️\n\n👀Что еще интересного можно найти на канале #englishspot\n✅Разговорные фразы: https://bit.ly/2SIrR7o\n✅Времена в английском: https://bit.ly/2TeZLFN\n✅Английский для начинающих: https://bit.ly/2NJh3ES\n✅Разница между похожими словами: https://bit.ly/2EMRBeU\n✅Американское произношение: https://bit.ly/2SHQBML\n✅Советы по изучению английского: https://bit.ly/2tOne1r\n✅Английский видео-словарь: https://bit.ly/2Hfo7Ii\nАнглийская грамматика: https://bit.ly/2SI3SVV\n\n💙Подпишись на канал: https://goo.gl/X2dDdJ\n🔷ВК: https://vk.com/englishspot\n🔷Инста: https://www.instagram.com/englishspotofficial\n🔷Телеграм: http://t.me/englishspotofficial\n🔷Личная страница ВК: https://vk.com/christina.bjorn\n\n👩 Привет! ☮ Я Кристина Бьорн и это мой канал - English Spot (Инглиш Спот),  где я делюсь своими знаниями американского разговорного английского. В своих видео я использую фильмы, мультики и музыкальные клипы, а также поднимаю интересные темы чтобы доказать, что изучение английского - это увлекательно. Добро пожаловать на мой канал! ✨\n\n👉 Полезные ссылки\nКрутой курс английского от носителя: https://goo.gl/Dqn361\nMemoize: https://memoize.tv/",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/GO0ZvcydJOI/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/GO0ZvcydJOI/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/GO0ZvcydJOI/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/GO0ZvcydJOI/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/GO0ZvcydJOI/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Hiroshi Ogawa",
+    "playlistId": "PL7sA_SkHX5ye8sYG5tOdvGfNZef5b7hx7",
+    "position": 36,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "GO0ZvcydJOI"
+    }
+   },
+   "contentDetails": {
+    "videoId": "GO0ZvcydJOI",
+    "videoPublishedAt": "2019-07-08T04:00:02.000Z"
+   },
+   "status": {
+    "privacyStatus": "public"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"p4VTdlkQv3HQeTEaXgvLePAydmU/dB36u_b-5jgu-G1dxpVqeaRdDtw\"",
+   "id": "UEw3c0FfU2tIWDV5ZThzWUc1dE9kdkdmTlplZjViN2h4Ny45ODRDNTg0QjA4NkFBNkQy",
+   "snippet": {
+    "publishedAt": "2019-07-03T16:38:00.000Z",
+    "channelId": "UCRqqejOQm2ZQLHZ62CxXLIA",
+    "title": "20 крутых фраз для свободного общения на английском │ English Spot - разговорный английский",
+    "description": "👉В этом видео вы узнаете 20 супер полезных английских выражений на все случаи жизни. Эти фразы помогут сделать вашу речь более живой и разнообразной. Как всегда, будут примеры из фильмов. Надеюсь вам понравится, приятного просмотра.\n#разговорныйанглийский\n\n\n👀Что еще интересного можно найти на канале #englishspot\n✅Разговорные фразы: https://bit.ly/2SIrR7o\n✅Времена в английском: https://bit.ly/2TeZLFN\n✅Английский для начинающих: https://bit.ly/2NJh3ES\n✅Разница между похожими словами: https://bit.ly/2EMRBeU\n✅Американское произношение: https://bit.ly/2SHQBML\n✅Советы по изучению английского: https://bit.ly/2tOne1r\n✅Английский видео-словарь: https://bit.ly/2Hfo7Ii\nАнглийская грамматика: https://bit.ly/2SI3SVV\n\n💙Подпишись на канал: https://goo.gl/X2dDdJ\n🔷ВК: https://vk.com/englishspot\n🔷Инста: https://www.instagram.com/englishspotofficial\n🔷Телеграм: http://t.me/englishspotofficial\n🔷Личная страница ВК: https://vk.com/christina.bjorn\n\n👩 Привет! ☮ Я Кристина Бьорн и это мой канал - English Spot (Инглиш Спот),  где я делюсь своими знаниями американского разговорного английского. В своих видео я использую фильмы, мультики и музыкальные клипы, а также поднимаю интересные темы чтобы доказать, что изучение английского - это увлекательно. Добро пожаловать на мой канал! ✨\n\n👉 Полезные ссылки\nКурс Джастина: https://goo.gl/Dqn361\nMemoize: https://memoize.tv/",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/uZer5_vFZDw/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/uZer5_vFZDw/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/uZer5_vFZDw/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/uZer5_vFZDw/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/uZer5_vFZDw/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Hiroshi Ogawa",
+    "playlistId": "PL7sA_SkHX5ye8sYG5tOdvGfNZef5b7hx7",
+    "position": 37,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "uZer5_vFZDw"
+    }
+   },
+   "contentDetails": {
+    "videoId": "uZer5_vFZDw",
+    "videoPublishedAt": "2019-06-12T14:31:34.000Z"
+   },
+   "status": {
+    "privacyStatus": "public"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"p4VTdlkQv3HQeTEaXgvLePAydmU/prhpAeyYpAofJQqDjp_l91TZxKM\"",
+   "id": "UEw3c0FfU2tIWDV5ZThzWUc1dE9kdkdmTlplZjViN2h4Ny5EMEEwRUY5M0RDRTU3NDJC",
+   "snippet": {
+    "publishedAt": "2019-07-03T16:37:49.000Z",
+    "channelId": "UCRqqejOQm2ZQLHZ62CxXLIA",
+    "title": "50 самых важных слов в английском языке (существительные)│ English Spot - разговорный английский",
+    "description": "👉В этом видео вы узнаете ТОП 50 САМЫХ УПОТРЕБЛЯЕМЫХ СУЩЕСТВИТЕЛЬНЫХ в американском английском по версии сайта wordfrequency.com . Базой послужил Corpus of Contemporary American English. \nЭто видео будет полезно:\n✅ новичкам\nЛогично начать учить лексику с тех слов, которые действительно используются. Каждое слово будет озвучено носителем, поэтому вы сразу запомните правильное произношение.\n✅ продолжающим\nКаждое слово будет снабжено примером из фильма. Причем, многие примеры - это разговорные фразы, которые вы так любите ❤️\nЕсли вам понравится, я сделаю аналогичные видео про глаголы, прилагательные и наречия! 😉\nОчень надеюсь, что вам понравится это видео ❤️\n\n👀Что еще интересного можно найти на канале #englishspot\n✅Разговорные фразы: https://bit.ly/2SIrR7o\n✅Времена в английском: https://bit.ly/2TeZLFN\n✅Английский для начинающих: https://bit.ly/2NJh3ES\n✅Разница между похожими словами: https://bit.ly/2EMRBeU\n✅Американское произношение: https://bit.ly/2SHQBML\n✅Советы по изучению английского: https://bit.ly/2tOne1r\n✅Английский видео-словарь: https://bit.ly/2Hfo7Ii\nАнглийская грамматика: https://bit.ly/2SI3SVV\n\n💙Подпишись на канал: https://goo.gl/X2dDdJ\n🔷ВК: https://vk.com/englishspot\n🔷Инста: https://www.instagram.com/englishspotofficial\n🔷Телеграм: http://t.me/englishspotofficial\n🔷Личная страница ВК: https://vk.com/christina.bjorn\n\n👩 Привет! ☮ Я Кристина Бьорн и это мой канал - English Spot (Инглиш Спот),  где я делюсь своими знаниями американского разговорного английского. В своих видео я использую фильмы, мультики и музыкальные клипы, а также поднимаю интересные темы чтобы доказать, что изучение английского - это увлекательно. Добро пожаловать на мой канал! ✨\n\n👉 Полезные ссылки\nКурс Джастина: https://goo.gl/Dqn361\nMemoize: https://memoize.tv/",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/zWo0fn0OmAA/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/zWo0fn0OmAA/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/zWo0fn0OmAA/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/zWo0fn0OmAA/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/zWo0fn0OmAA/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Hiroshi Ogawa",
+    "playlistId": "PL7sA_SkHX5ye8sYG5tOdvGfNZef5b7hx7",
+    "position": 38,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "zWo0fn0OmAA"
+    }
+   },
+   "contentDetails": {
+    "videoId": "zWo0fn0OmAA",
+    "videoPublishedAt": "2019-06-29T07:00:06.000Z"
+   },
+   "status": {
+    "privacyStatus": "public"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"p4VTdlkQv3HQeTEaXgvLePAydmU/bQ8-lwB_9N5Luwjfb3l69xSvJ44\"",
+   "id": "UEw3c0FfU2tIWDV5ZThzWUc1dE9kdkdmTlplZjViN2h4Ny40NzZCMERDMjVEN0RFRThB",
+   "snippet": {
+    "publishedAt": "2019-07-03T16:36:42.000Z",
+    "channelId": "UCRqqejOQm2ZQLHZ62CxXLIA",
+    "title": "Vlog in Russian 20. Come to Bamberg with me! - Germany - travel video - Anastasia Semina",
+    "description": "Make yourself a cup of tea and TURN ON the subtitles! ⭐ В двух словах: Бамберг, Германия, Бавария, Рождество, рождественский рынок, русский язык, субтитры, путешествия, Анастасия Семьина, Bamberg, Germany, Bavaria, Christmas market, travel vlog, Anastasia Semina, Russian language lessons, subtitles. ❤️\nYou can support my channel here: https://www.paypal.me/anastasiasemina 💙\nGet $10 USD in italki credits with your first lesson: https://goo.gl/vS7eTg\n💙\nSUBSCRIBE: http://www.youtube.com/AnastasiSemina\n💙\nAll Russian Conversations: https://goo.gl/Xj3bWA\nAll Russian lessons for beginners: http://goo.gl/hgTIvs\nRussian listening tests: https://goo.gl/kvwsF9\nVlogs in Russian: https://goo.gl/6rJ3WF\nAll Finnish Lessons for Beginners: http://goo.gl/Ju1luE\nTravel videos: http://goo.gl/w0GF9t\n💙\nLet’s be friends!\nhttps://www.instagram.com/anastasia_semina/\nhttps://www.instagram.com/russian_language_secrets/\nhttps://www.facebook.com/RussianFinnishEnglish/\nhttp://vk.com/russianfinnishenglish",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/mWPMDuIG47I/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/mWPMDuIG47I/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/mWPMDuIG47I/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/mWPMDuIG47I/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/mWPMDuIG47I/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Hiroshi Ogawa",
+    "playlistId": "PL7sA_SkHX5ye8sYG5tOdvGfNZef5b7hx7",
+    "position": 39,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "mWPMDuIG47I"
+    }
+   },
+   "contentDetails": {
+    "videoId": "mWPMDuIG47I",
+    "videoPublishedAt": "2018-12-26T21:56:18.000Z"
+   },
+   "status": {
+    "privacyStatus": "public"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"p4VTdlkQv3HQeTEaXgvLePAydmU/IR_ccjZjDj9L8Jni-WClXxsZBpo\"",
+   "id": "UEw3c0FfU2tIWDV5ZThzWUc1dE9kdkdmTlplZjViN2h4Ny41MjE1MkI0OTQ2QzJGNzNG",
+   "snippet": {
+    "publishedAt": "2019-07-03T14:17:29.000Z",
+    "channelId": "UCRqqejOQm2ZQLHZ62CxXLIA",
+    "title": "Teaching Russian in Singapore. Русский язык в Сингапуре.",
+    "description": "Learn more about their school: http://www.russian.sg\nFind them on Facebook and Instagram:\nhttps://www.facebook.com/rlc.singapore/\nhttps://www.instagram.com/rlc_singapore/\n\nTalk to me here:\nhttps://www.instagram.com/Anastasia_Semina/\nhttps://www.instagram.com/russian_language_secrets/\nhttps://www.facebook.com/RussianFinnishEnglish/\n\n#RussianLanguage #RussianLessons #teachingRussian",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/_c8nVxVOTJg/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/_c8nVxVOTJg/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/_c8nVxVOTJg/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/_c8nVxVOTJg/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/_c8nVxVOTJg/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Hiroshi Ogawa",
+    "playlistId": "PL7sA_SkHX5ye8sYG5tOdvGfNZef5b7hx7",
+    "position": 40,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "_c8nVxVOTJg"
+    }
+   },
+   "contentDetails": {
+    "videoId": "_c8nVxVOTJg",
+    "videoPublishedAt": "2019-06-30T11:48:14.000Z"
+   },
+   "status": {
+    "privacyStatus": "public"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"p4VTdlkQv3HQeTEaXgvLePAydmU/xxmZai-gWP96XFH55HQZhOA1yCU\"",
+   "id": "UEw3c0FfU2tIWDV5ZThzWUc1dE9kdkdmTlplZjViN2h4Ny4wMTcyMDhGQUE4NTIzM0Y5",
+   "snippet": {
+    "publishedAt": "2019-07-03T14:17:02.000Z",
+    "channelId": "UCRqqejOQm2ZQLHZ62CxXLIA",
+    "title": "Vlogs in Russian 24. Dacha in Russia. Дача на севере России.",
+    "description": "В этом видео: дача в России, Архангельск, русский язык, русская баня, огород, Russian dacha, Russian culture, Russian banya, Arkhangelsk, Russian North, Anastasia Semina, Vlogs in Russian, Russian lessons, videos with subtitles, Анастасия Семьина, уроки русского.\n💙\nYou can support my channel on Patreon:\nhttps://www.patreon.com/anastasisemina\nOr via paypal: https://www.paypal.me/anastasiasemina\n💙\nAll Russian Conversations: https://goo.gl/Xj3bWA\nAll Russian lessons for beginners: http://goo.gl/hgTIvs\nRussian listening tests: https://goo.gl/kvwsF9\nVlogs in Russian: https://goo.gl/6rJ3WF\nAll Finnish Lessons for Beginners: http://goo.gl/Ju1luE\nTravel videos: http://goo.gl/w0GF9t\n💙\nTalk to me on instagram:\nhttps://www.instagram.com/russian_language_secrets/\nFind me on Facebook:\nhttps://www.facebook.com/RussianFinnishEnglish/\n\n#vlogsinRussian #AnastasiaSemina #RussianLanguage",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/19FGDV23hj8/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/19FGDV23hj8/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/19FGDV23hj8/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/19FGDV23hj8/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/19FGDV23hj8/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Hiroshi Ogawa",
+    "playlistId": "PL7sA_SkHX5ye8sYG5tOdvGfNZef5b7hx7",
+    "position": 41,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "19FGDV23hj8"
+    }
+   },
+   "contentDetails": {
+    "videoId": "19FGDV23hj8",
+    "videoPublishedAt": "2019-06-29T14:33:33.000Z"
+   },
+   "status": {
+    "privacyStatus": "public"
+   }
+  }
+ ]
+}

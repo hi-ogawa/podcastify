@@ -1,26 +1,24 @@
-const assert = require('assert').strict;
-const crypto = require('crypto');
-const fetch = require('./fetch.js');
-const { JSDOM } = require('jsdom');
 const _ = require('lodash');
-const { encodeURIComponent } = global;
+
+const fetchTextViaProxyList = require('./fetchTextViaProxyList');
+const { getPlaylist, getChannel } = require('./youtubeApi.js');
 
 // NOTE:
 // For now, go exclusively with webm, just hoping this format is always available.
-// If it's not, then client will get m4a or something, contracting with enclosure type.
-// It seems most clients can robustly handle those cases.
+// If it's not, then client will get m4a or something, contradicting with enclosure type.
+// But, it seems most clients can robustly handle those cases.
 const MIME_TYPE = 'audio/webm';
 
 const cdata = (text) => `<![CDATA[${text}]]>`;
 
-const genChannelInfo = ({ title, link, imageUrl }) => `
+const emitChannelInfo = ({ title, author, link, imageUrl }) => `
   <title>${cdata(title)}</title>
   <link>${link}</link>
-  <itunes:author>${cdata(title)}</itunes:author>
+  <itunes:author>${cdata(author)}</itunes:author>
   <itunes:image href="${imageUrl}"/>
 `;
 
-const genItem = ({ title, description, author, link, imageUrl, enclosureUrl, guid, pubDate }) => `
+const emitItem = ({ title, description, author, link, imageUrl, enclosureUrl, guid, pubDate }) => `
   <item>
     <title>${cdata(title)}</title>
     <description>${cdata(description)}</description>
@@ -35,73 +33,71 @@ const genItem = ({ title, description, author, link, imageUrl, enclosureUrl, gui
 
 const getChannelId = async (user) => {
   const url = `http://www.youtube.com/user/${user}`;
-  const resp = await fetch.fetch(url);
-  assert(resp.ok);
-  const text = await resp.text();
+  let text;
+  try {
+    text = await fetchTextViaProxyList(url);
+  } catch (e) {
+    console.log(`error fetchTextViaProxyList(${url})`, e.message);
+    return;
+  }
   // NOTE: "?" finds shortest match.
   const m = text.match(/<link rel="canonical" href="(.*)\/channel\/(.*?)">/);
-  assert(m && m[2]);
+  if (!(m && m[2])) {
+    console.log(`error getChannelId: channel id not found.`);
+    return;
+  }
   return m[2];
 }
 
-// NOTE:
-// It seems the feed consists of the latest 15 videos under the channel.
-// Actually we don't have to use original feeds to obtain the list of videos, but
-// it is for starter because it's easy to use it.
-const getRss = async (type, id, mkEnclosureUrl) => {
-  if (type === 'user') {
-    type = 'channel';
-    id = await getChannelId(id);
+const getTypeAndIdFromUrl = async (url) => {
+  let obj;
+  try {
+    obj = new URL(url);
+  } catch (e) {
+    console.error(e);
+    return;
   }
 
-  const feedUrl = `http://www.youtube.com/feeds/videos.xml?${type}_id=${id}`;
-  let feed;
-  try {
-    const resp = await fetch.fetch(feedUrl);
-    if (!resp.ok) { return; }
-    feed = await resp.text();
-  } catch (e) { return; }
+  // e.g. https://www.youtube.com/playlist?list=PLFPXn0FXBEuEiDDbjTh819LThGqUEWaYM
+  const playlistId = obj.searchParams.get('list');
+  if (playlistId) {
+    return { type: 'playlist', id: playlistId };
+  }
 
-  return feed2rss(feed, type, id, mkEnclosureUrl);
+  // e.g. https://www.youtube.com/channel/UCklUqFEcJqFnWKEBozw5p4g
+  const m1 = obj.pathname.match(/\/channel\/(.*)/);
+  if (m1 && m1[1]) {
+    return { type: 'channel', id: m1[1] };
+  }
+
+  // e.g. https://www.youtube.com/user/AnastasiSemina
+  const m2 = obj.pathname.match(/\/user\/(.*)/);
+  if (m2 && m2[1]) {
+    const user = m2[1];
+    const id = await getChannelId(user);
+    if (!id) { return; }
+    return { type: 'channel', id };
+  }
 }
 
-const feed2rss = (feed, type, id, mkEnclosureUrl) => {
-  const dom = new JSDOM(feed, { contentType: 'text/xml' });
-  const doc = dom.window.document;
+const youtubeUrlToRss = async (url, youtubeEnclosureUrl) => {
+  const obj = await getTypeAndIdFromUrl(url);
+  if (!obj) { return; }
 
-  // Items
-  const entries = doc.querySelectorAll('entry')
-  const items = Array.from(entries).map(e => {
-    const title = e.querySelector('title').textContent;
-    const description = e.querySelector('media\\:description').textContent.replace(/\n/g, '<br />');
-    const videoUrl = e.querySelector('link[rel="alternate"]').getAttribute('href');
-    const imageUrl = e.querySelector('media\\:thumbnail').getAttribute('url');
-    const published = e.querySelector('published').textContent;
-    const author = e.querySelector('author > name').textContent;
+  const { type, id } = obj;
 
-    const enclosureUrl = mkEnclosureUrl(videoUrl);
+  let resource;
+  if (type === 'playlist') {
+    resource = await getPlaylist(id);
+  }
+  if (type === 'channel') {
+    resource = await getChannel(id);
+  }
+  if (!resource) { return; }
 
-    // Don't know what guid has to be. Just make it unique-ish within podcastify.
-    const hash = crypto.createHash('md5');
-    hash.update(type + '@' + id + '@' + enclosureUrl);
-    const guid = hash.digest('hex')
-
-    return {
-      title, description, imageUrl, guid, author, enclosureUrl,
-      link: videoUrl,
-      pubDate: (new Date(published)).toUTCString(),
-    };
-  });
-
-  // Channel info
-  const title = doc.querySelector('feed > title').textContent;
-  const link =
-    (type === 'channel'  && `http://www.youtube.com/channel/${id}`) ||
-    (type === 'playlist' && `http://www.youtube.com/playlist?list=${id}`)
-  const channelInfo = genChannelInfo({
-    title: `${title} (podcastify)`,
-    link,
-    imageUrl: items[0].imageUrl
+  resource.items.forEach(item => {
+    item.enclosureUrl = `${youtubeEnclosureUrl}?videoId=${item.id}`;
+    item.description = item.description.replace(/\n/g, '<br />');
   });
 
   return `
@@ -111,17 +107,17 @@ const feed2rss = (feed, type, id, mkEnclosureUrl) => {
          xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" \
          xmlns:content="http://purl.org/rss/1.0/modules/content/" >
       <channel>
-        ${channelInfo}
-        ${''.concat(...items.map(genItem))}
+        ${emitChannelInfo(resource)}
+        ${resource.items.map(emitItem).join('')}
       </channel>
     </rss>
   `.trim();
 }
 
-const extractFormats = (content) => {
-  const mobj = content.match(/;ytplayer\.config\s*=\s*({.+?});ytplayer/);
-  const config = JSON.parse(mobj[1]);
-  const player_response = JSON.parse(config.args.player_response);
+const extractFormats = (text) => {
+  const decoded = decodeURIComponent(text);
+  const param = decoded.split('&').find(param => param.startsWith('player_response='));
+  const player_response = JSON.parse(param.replace('player_response=', ''));
   const formats1 = player_response.streamingData.formats;
   const formats2 = player_response.streamingData.adaptiveFormats;
   const fields = ['itag', 'url', 'contentLength', 'mimeType',
@@ -134,13 +130,29 @@ const chooseFormat = (formats) =>
   formats.find(f => f.mimeType.match(MIME_TYPE)) ||
   formats.find(f => f.mimeType.match('audio'))
 
-const getAudioUrl = async (videoUrl) => {
-  const resp = await fetch.fetch(videoUrl);
-  const text = await resp.text();
+// (Dirty) download time optimization
+// cf. https://github.com/hi-ogawa/range-split-proxy
+const RANGE_SPLIT_PROXY_URL = 'https://range-split-proxy.herokuapp.com/';
+
+const videoIdToAudioUrl = async (videoId) => {
+  let text;
+  try {
+    text = await fetchTextViaProxyList(`https://www.youtube.com/get_video_info?video_id=${videoId}&gl=US&hl=en`);
+  } catch (e) {
+    console.log(e.message);
+    return;
+  }
+
   const formats = extractFormats(text);
   const format = chooseFormat(formats);
   if (!format) { return; }
-  return format.url;
+
+  const audioUrl = encodeURIComponent(format.url);
+  const proxyUrl = `${RANGE_SPLIT_PROXY_URL}?url=${audioUrl}`;
+  return proxyUrl;
 }
 
-module.exports = { getRss, getAudioUrl };
+module.exports = {
+  youtubeUrlToRss,
+  videoIdToAudioUrl,
+};

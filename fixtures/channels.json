@@ -1,0 +1,117 @@
+{
+ "kind": "youtube#channelListResponse",
+ "etag": "\"p4VTdlkQv3HQeTEaXgvLePAydmU/6p2EHu3ml4R5Gi8vrfK55jkXHA4\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#channel",
+   "etag": "\"p4VTdlkQv3HQeTEaXgvLePAydmU/caVCcsWEULs4VnVdjbaGmkc1vBk\"",
+   "id": "UCYS8BOA0Y7nGY7kJJw8hvAA",
+   "snippet": {
+    "title": "Viku Hasky",
+    "description": "Меня зовут Виктория, мне 26  лет. Я выучилась на стилиста-дизайнера во Франции и уже вернулась в Ригу.\nНа своём канале я делюсь своими мыслями, знаниями, моментами жизни и профессиональной активности. Вроде бы, в народе это называют \"лайфстайл\".))",
+    "publishedAt": "2013-11-11T18:48:41.000Z",
+    "thumbnails": {
+     "default": {
+      "url": "https://yt3.ggpht.com/a/AGF-l7-8Ic8KbsQ5d1p_myRW8HgKZZWXDZx0awgIlw=s88-c-k-c0xffffffff-no-rj-mo",
+      "width": 88,
+      "height": 88
+     },
+     "medium": {
+      "url": "https://yt3.ggpht.com/a/AGF-l7-8Ic8KbsQ5d1p_myRW8HgKZZWXDZx0awgIlw=s240-c-k-c0xffffffff-no-rj-mo",
+      "width": 240,
+      "height": 240
+     },
+     "high": {
+      "url": "https://yt3.ggpht.com/a/AGF-l7-8Ic8KbsQ5d1p_myRW8HgKZZWXDZx0awgIlw=s800-c-k-c0xffffffff-no-rj-mo",
+      "width": 800,
+      "height": 800
+     }
+    },
+    "localized": {
+     "title": "Viku Hasky",
+     "description": "Меня зовут Виктория, мне 26  лет. Я выучилась на стилиста-дизайнера во Франции и уже вернулась в Ригу.\nНа своём канале я делюсь своими мыслями, знаниями, моментами жизни и профессиональной активности. Вроде бы, в народе это называют \"лайфстайл\".))"
+    },
+    "country": "RU"
+   },
+   "contentDetails": {
+    "relatedPlaylists": {
+     "uploads": "UUYS8BOA0Y7nGY7kJJw8hvAA",
+     "watchHistory": "HL",
+     "watchLater": "WL"
+    }
+   },
+   "statistics": {
+    "viewCount": "1652406",
+    "commentCount": "0",
+    "subscriberCount": "19100",
+    "hiddenSubscriberCount": false,
+    "videoCount": "173"
+   },
+   "topicDetails": {
+    "topicIds": [
+     "/m/019_rr",
+     "/m/019_rr"
+    ],
+    "topicCategories": [
+     "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+    ]
+   },
+   "status": {
+    "privacyStatus": "public",
+    "isLinked": true,
+    "longUploadsStatus": "longUploadsUnspecified"
+   },
+   "brandingSettings": {
+    "channel": {
+     "title": "Viku Hasky",
+     "description": "Меня зовут Виктория, мне 26  лет. Я выучилась на стилиста-дизайнера во Франции и уже вернулась в Ригу.\nНа своём канале я делюсь своими мыслями, знаниями, моментами жизни и профессиональной активности. Вроде бы, в народе это называют \"лайфстайл\".))",
+     "keywords": "Viku Hasky",
+     "defaultTab": "Featured",
+     "showRelatedChannels": true,
+     "showBrowseView": true,
+     "featuredChannelsTitle": "♡",
+     "featuredChannelsUrls": [
+      "UCBNN2zgXj8i97TDeGtH-i6A",
+      "UC8uwp_WIw3ThyekoSi8PI9A"
+     ],
+     "profileColor": "#000000",
+     "country": "RU"
+    },
+    "image": {
+     "bannerImageUrl": "https://yt3.ggpht.com/TsM3o6wuPd9O6ATCF3f4UecQuXYoEx1e8Nm9DcqBmMouqezOziMg79E7z14biXCEG4_EvV8n=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj",
+     "bannerMobileImageUrl": "https://yt3.ggpht.com/TsM3o6wuPd9O6ATCF3f4UecQuXYoEx1e8Nm9DcqBmMouqezOziMg79E7z14biXCEG4_EvV8n=w640-fcrop64=1,32b75a57cd48a5a8-k-c0xffffffff-no-nd-rj",
+     "bannerTabletLowImageUrl": "https://yt3.ggpht.com/TsM3o6wuPd9O6ATCF3f4UecQuXYoEx1e8Nm9DcqBmMouqezOziMg79E7z14biXCEG4_EvV8n=w1138-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj",
+     "bannerTabletImageUrl": "https://yt3.ggpht.com/TsM3o6wuPd9O6ATCF3f4UecQuXYoEx1e8Nm9DcqBmMouqezOziMg79E7z14biXCEG4_EvV8n=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj",
+     "bannerTabletHdImageUrl": "https://yt3.ggpht.com/TsM3o6wuPd9O6ATCF3f4UecQuXYoEx1e8Nm9DcqBmMouqezOziMg79E7z14biXCEG4_EvV8n=w2276-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj",
+     "bannerTabletExtraHdImageUrl": "https://yt3.ggpht.com/TsM3o6wuPd9O6ATCF3f4UecQuXYoEx1e8Nm9DcqBmMouqezOziMg79E7z14biXCEG4_EvV8n=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj",
+     "bannerMobileLowImageUrl": "https://yt3.ggpht.com/TsM3o6wuPd9O6ATCF3f4UecQuXYoEx1e8Nm9DcqBmMouqezOziMg79E7z14biXCEG4_EvV8n=w320-fcrop64=1,32b75a57cd48a5a8-k-c0xffffffff-no-nd-rj",
+     "bannerMobileMediumHdImageUrl": "https://yt3.ggpht.com/TsM3o6wuPd9O6ATCF3f4UecQuXYoEx1e8Nm9DcqBmMouqezOziMg79E7z14biXCEG4_EvV8n=w960-fcrop64=1,32b75a57cd48a5a8-k-c0xffffffff-no-nd-rj",
+     "bannerMobileHdImageUrl": "https://yt3.ggpht.com/TsM3o6wuPd9O6ATCF3f4UecQuXYoEx1e8Nm9DcqBmMouqezOziMg79E7z14biXCEG4_EvV8n=w1280-fcrop64=1,32b75a57cd48a5a8-k-c0xffffffff-no-nd-rj",
+     "bannerMobileExtraHdImageUrl": "https://yt3.ggpht.com/TsM3o6wuPd9O6ATCF3f4UecQuXYoEx1e8Nm9DcqBmMouqezOziMg79E7z14biXCEG4_EvV8n=w1440-fcrop64=1,32b75a57cd48a5a8-k-c0xffffffff-no-nd-rj",
+     "bannerTvImageUrl": "https://yt3.ggpht.com/TsM3o6wuPd9O6ATCF3f4UecQuXYoEx1e8Nm9DcqBmMouqezOziMg79E7z14biXCEG4_EvV8n=w2120-fcrop64=1,00000000ffffffff-k-c0xffffffff-no-nd-rj",
+     "bannerTvLowImageUrl": "https://yt3.ggpht.com/TsM3o6wuPd9O6ATCF3f4UecQuXYoEx1e8Nm9DcqBmMouqezOziMg79E7z14biXCEG4_EvV8n=w854-fcrop64=1,00000000ffffffff-k-c0xffffffff-no-nd-rj",
+     "bannerTvMediumImageUrl": "https://yt3.ggpht.com/TsM3o6wuPd9O6ATCF3f4UecQuXYoEx1e8Nm9DcqBmMouqezOziMg79E7z14biXCEG4_EvV8n=w1280-fcrop64=1,00000000ffffffff-k-c0xffffffff-no-nd-rj",
+     "bannerTvHighImageUrl": "https://yt3.ggpht.com/TsM3o6wuPd9O6ATCF3f4UecQuXYoEx1e8Nm9DcqBmMouqezOziMg79E7z14biXCEG4_EvV8n=w1920-fcrop64=1,00000000ffffffff-k-c0xffffffff-no-nd-rj"
+    },
+    "hints": [
+     {
+      "property": "channel.modules.show_comments.bool",
+      "value": "True"
+     },
+     {
+      "property": "channel.featured_tab.template.string",
+      "value": "Everything"
+     },
+     {
+      "property": "channel.banner.mobile.medium.image.url",
+      "value": "https://yt3.ggpht.com/TsM3o6wuPd9O6ATCF3f4UecQuXYoEx1e8Nm9DcqBmMouqezOziMg79E7z14biXCEG4_EvV8n=w640-fcrop64=1,32b75a57cd48a5a8-k-c0xffffffff-no-nd-rj"
+     }
+    ]
+   }
+  }
+ ]
+}

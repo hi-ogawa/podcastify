@@ -6,7 +6,7 @@
     { "src": "frontend/**/*", "use": "@now/static" }
   ],
   "routes": [
-    { "src": "/(rss|enclosure)", "dest": "backend/app.js" },
+    { "src": "/(youtube|youtubeEnclosure)", "dest": "backend/app.js" },
     { "src": "/(.*)", "dest": "frontend/$1" }
   ]
 }

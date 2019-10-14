@@ -1,0 +1,108 @@
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"p4VTdlkQv3HQeTEaXgvLePAydmU/JtanzPDjHsL-VGr2m9gg-HLEwbc\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"p4VTdlkQv3HQeTEaXgvLePAydmU/B0Qn4K4B9lnZcxZ5sx0R_cVBj8k\"",
+   "id": "Q_v2Pc-ew28",
+   "snippet": {
+    "publishedAt": "2019-08-03T05:54:52.000Z",
+    "channelId": "UCYS8BOA0Y7nGY7kJJw8hvAA",
+    "title": "Владеешь ли ты иностранным языком свободно?",
+    "description": "http://go.italki.com/vikuhasky - При регистрации по ссылке, Вы получите 10$ в кредитах italki после первой покупки.\nhttps://www.italki.com/home - Обучение языку онлайн.\n\n___\n\nhttps://www.youtube.com/watch?v=P-GTRwdrxXY -- Как выучить английский язык: моя история успеха\nhttps://www.youtube.com/watch?reload=9&v=lnccxB-tB0Q --VLOG РИГА × говорю по-латышски 🇱🇻\nhttps://www.youtube.com/watch?v=MIoqHw6vFxY&t=525s -- Учи язык и не стесняйся! #мотивика\nhttps://www.youtube.com/watch?v=3ck4ai0O4dE&t=1s -- ЗАЧЕМ НУЖНО УЧИТЬ ЯЗЫКИ? #мотивика\nhttps://www.youtube.com/watch?v=tYNRKZ7VXGU&t=30s -- Как НАДО и НЕ НАДО учить (латышский/любой другой) язык\nhttps://www.youtube.com/watch?v=OiD74C0GD4g -- ЛАТЫШСКИЙ ЯЗЫК: рандомная проверка знаний Вики Викой\nhttps://www.youtube.com/watch?v=YUIZDd3b3no -- СТРАННЫЕ ФРАНЦУЗСКИЕ ФРАЗЫ\nhttps://www.youtube.com/watch?v=fK33KMmgXjw&t=822s -- Как выучить французский язык: моя история успеха\n\n____\n\nИНСТАГРАМ: http://instagram.com/vikuhasky/\nSOUNDCLOUD: https://soundcloud.com/viku-hasky\nPINTEREST: https://www.pinterest.com/vikuhasky/\n\nCanon 700D\niPhone 8\nFinal Cut X\n\n\nпо вопросам сотрудничества: vgubarevica@gmail.com",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/Q_v2Pc-ew28/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/Q_v2Pc-ew28/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/Q_v2Pc-ew28/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/Q_v2Pc-ew28/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/Q_v2Pc-ew28/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Viku Hasky",
+    "tags": [
+     "вику хаски",
+     "italki",
+     "viku hasky",
+     "иностранный язык",
+     "как выучить",
+     "онлайн школа",
+     "английский язык",
+     "испанский язык",
+     "английский для начинающих",
+     "как выучить английский",
+     "французский язык",
+     "изучение языка",
+     "как начать говорить",
+     "языковой барьер"
+    ],
+    "categoryId": "22",
+    "liveBroadcastContent": "none",
+    "localized": {
+     "title": "Владеешь ли ты иностранным языком свободно?",
+     "description": "http://go.italki.com/vikuhasky - При регистрации по ссылке, Вы получите 10$ в кредитах italki после первой покупки.\nhttps://www.italki.com/home - Обучение языку онлайн.\n\n___\n\nhttps://www.youtube.com/watch?v=P-GTRwdrxXY -- Как выучить английский язык: моя история успеха\nhttps://www.youtube.com/watch?reload=9&v=lnccxB-tB0Q --VLOG РИГА × говорю по-латышски 🇱🇻\nhttps://www.youtube.com/watch?v=MIoqHw6vFxY&t=525s -- Учи язык и не стесняйся! #мотивика\nhttps://www.youtube.com/watch?v=3ck4ai0O4dE&t=1s -- ЗАЧЕМ НУЖНО УЧИТЬ ЯЗЫКИ? #мотивика\nhttps://www.youtube.com/watch?v=tYNRKZ7VXGU&t=30s -- Как НАДО и НЕ НАДО учить (латышский/любой другой) язык\nhttps://www.youtube.com/watch?v=OiD74C0GD4g -- ЛАТЫШСКИЙ ЯЗЫК: рандомная проверка знаний Вики Викой\nhttps://www.youtube.com/watch?v=YUIZDd3b3no -- СТРАННЫЕ ФРАНЦУЗСКИЕ ФРАЗЫ\nhttps://www.youtube.com/watch?v=fK33KMmgXjw&t=822s -- Как выучить французский язык: моя история успеха\n\n____\n\nИНСТАГРАМ: http://instagram.com/vikuhasky/\nSOUNDCLOUD: https://soundcloud.com/viku-hasky\nPINTEREST: https://www.pinterest.com/vikuhasky/\n\nCanon 700D\niPhone 8\nFinal Cut X\n\n\nпо вопросам сотрудничества: vgubarevica@gmail.com"
+    },
+    "defaultAudioLanguage": "ru"
+   },
+   "contentDetails": {
+    "duration": "PT19M17S",
+    "dimension": "2d",
+    "definition": "hd",
+    "caption": "false",
+    "licensedContent": true,
+    "projection": "rectangular"
+   },
+   "status": {
+    "uploadStatus": "processed",
+    "privacyStatus": "public",
+    "license": "youtube",
+    "embeddable": true,
+    "publicStatsViewable": true
+   },
+   "statistics": {
+    "viewCount": "1784",
+    "likeCount": "143",
+    "dislikeCount": "11",
+    "favoriteCount": "0",
+    "commentCount": "40"
+   },
+   "player": {
+    "embedHtml": "\u003ciframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/Q_v2Pc-ew28\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen\u003e\u003c/iframe\u003e"
+   },
+   "topicDetails": {
+    "topicIds": [
+     "/m/019_rr"
+    ],
+    "relevantTopicIds": [
+     "/m/019_rr"
+    ],
+    "topicCategories": [
+     "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+    ]
+   }
+  }
+ ]
+}

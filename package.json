@@ -6,8 +6,8 @@
     "frontend": "http-server ./frontend -p 9090",
     "dev": "nodemon ./backend/app.js",
     "dev:debug": "nodemon --inspect ./backend/app.js",
-    "test": "APP_ENV=test mocha ./backend/app.test.js --timeout=10000 --exit",
-    "test:debug": "APP_ENV=test mocha --inspect ./backend/app.test.js --timeout=10000 --exit",
+    "test": "APP_ENV=test mocha ./backend/*.test.js --timeout=30000 --exit",
+    "test:debug": "APP_ENV=test mocha --inspect ./backend/*.test.js --timeout=30000 --exit",
     "deploy": "now . -A now.json --debug"
   },
   "dependencies": {

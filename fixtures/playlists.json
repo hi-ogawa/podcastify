@@ -1,0 +1,57 @@
+{
+ "kind": "youtube#playlistListResponse",
+ "etag": "\"p4VTdlkQv3HQeTEaXgvLePAydmU/TFqobjUfqg3S_7fiuFdBHCwh4Iw\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 5
+ },
+ "items": [
+  {
+   "kind": "youtube#playlist",
+   "etag": "\"p4VTdlkQv3HQeTEaXgvLePAydmU/lOeN2Iyfg78cdJEXU2iqWhBzgPA\"",
+   "id": "PL7sA_SkHX5ye8sYG5tOdvGfNZef5b7hx7",
+   "snippet": {
+    "publishedAt": "2019-07-03T13:45:11.000Z",
+    "channelId": "UCRqqejOQm2ZQLHZ62CxXLIA",
+    "title": "Язык",
+    "description": "",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/I-Kb_RbdntM/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/I-Kb_RbdntM/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/I-Kb_RbdntM/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/I-Kb_RbdntM/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "Hiroshi Ogawa",
+    "localized": {
+     "title": "Язык",
+     "description": ""
+    }
+   },
+   "status": {
+    "privacyStatus": "unlisted"
+   },
+   "contentDetails": {
+    "itemCount": 42
+   },
+   "player": {
+    "embedHtml": "\u003ciframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/videoseries?list=PL7sA_SkHX5ye8sYG5tOdvGfNZef5b7hx7\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen\u003e\u003c/iframe\u003e"
+   }
+  }
+ ]
+}

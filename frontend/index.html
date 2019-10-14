@@ -96,40 +96,12 @@
         });
       }
 
-      // const rssServerUrl = 'http://localhost:8080';
-      const rssServerUrl = 'https://podcastify.hiogawa.now.sh';
+      const rssServerUrl =
+        window.location.href.match('podcastify.hiogawa.now.sh')
+        ? 'https://podcastify.hiogawa.now.sh'
+        : 'http://localhost:8080';
       const original = document.getElementById('original');
       const podcastified = document.getElementById('podcastified');
-
-      const parseYoutubeUrl = (url) => {
-        let obj;
-        try {
-          obj = new URL(url);
-        } catch (e) {
-          console.error(e);
-          return {};
-        }
-
-        // e.g. https://www.youtube.com/playlist?list=PLFPXn0FXBEuEiDDbjTh819LThGqUEWaYM
-        const playlistId = obj.searchParams.get('list');
-        if (playlistId) {
-          return { type: 'playlist', id: playlistId };
-        }
-
-        // e.g. https://www.youtube.com/channel/UCklUqFEcJqFnWKEBozw5p4g
-        const m1 = obj.pathname.match(/\/channel\/(.*)/);
-        if (m1 && m1[1]) {
-          return { type: 'channel', id: m1[1] };
-        }
-
-        // e.g. https://www.youtube.com/user/AnastasiSemina
-        const m2 = obj.pathname.match(/\/user\/(.*)/);
-        if (m2 && m2[1]) {
-          return { type: 'user', id: m2[1] };
-        }
-
-        return {};
-      };
 
       const shareIfAvailable = (url) => {
         if (!navigator.share) { return; }
@@ -142,11 +114,7 @@
       }
 
       const podcastify = () => {
-        const { type, id } = parseYoutubeUrl(original.value);
-        if (!(type && id)) {
-          return alert('Unsupported  Youtube URL.');
-        }
-        const url = `${rssServerUrl}/rss?type=${type}&id=${id}`;
+        const url = `${rssServerUrl}/youtube?url=${original.value}`;
         podcastified.value = url;
         shareIfAvailable(url);
         copy();
