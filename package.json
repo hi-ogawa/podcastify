@@ -15,7 +15,7 @@
     "jsdom": "^15.1.1",
     "lodash": "^4.17.15",
     "morgan": "^1.9.1",
-    "node-fetch": "^2.6.0"
+    "node-fetch": "^2.6.1"
   },
   "devDependencies": {
     "http-server": "^0.11.1",
